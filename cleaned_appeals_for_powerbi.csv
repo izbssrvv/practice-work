@@ -1,0 +1,1486 @@
+Appeal_ID,Region,Category,Date_Received,Status,Date_Closed,Processing_Time_Days
+APP-1757,Astana,Public Transport,2026-02-16,In Progress,,
+APP-1262,Karaganda,Education,2026-01-01,In Progress,,
+APP-1833,Shymkent,Healthcare,2026-03-31,Closed,2026-04-11,11.0
+APP-2226,Almaty,Housing,2026-03-28,Closed,2026-04-01,4.0
+APP-1309,Almaty,Education,2026-01-22,Closed,2026-01-26,4.0
+APP-1657,Almaty,Housing,2026-02-23,Rejected,,
+APP-1994,Aktobe,Roads,2026-02-09,Closed,2026-02-16,7.0
+APP-2017,Astana,Education,2026-02-09,Closed,2026-02-19,10.0
+APP-2448,Aktobe,Education,2026-03-23,Closed,2026-03-28,5.0
+APP-1049,Almaty,Public Transport,2026-03-01,Closed,2026-03-13,12.0
+APP-2372,Almaty,Public Transport,2026-01-03,Closed,2026-01-04,1.0
+APP-1608,Almaty,Housing,2026-01-31,Closed,2026-02-13,13.0
+APP-1614,Almaty,Healthcare,2026-03-31,Closed,2026-04-10,10.0
+APP-2360,Astana,Healthcare,2026-03-14,Closed,2026-03-29,15.0
+APP-1044,Astana,Education,2026-03-14,In Progress,,
+APP-1940,Almaty,Education,2026-02-13,Closed,2026-02-17,4.0
+APP-2270,Astana,Housing,2026-01-20,Closed,2026-01-27,7.0
+APP-2236,Shymkent,Housing,2026-03-19,In Progress,,
+APP-2225,Karaganda,Roads,2026-03-29,Closed,2026-04-12,14.0
+APP-2373,Aktobe,Public Transport,2026-02-13,Closed,2026-02-23,10.0
+APP-2323,Almaty,Housing,2026-02-14,In Progress,,
+APP-2348,Aktobe,Housing,2026-01-22,Closed,2026-02-04,13.0
+APP-1878,Shymkent,Public Transport,2026-03-27,Closed,2026-04-02,6.0
+APP-2026,Astana,Housing,2026-01-15,Closed,2026-01-23,8.0
+APP-1734,Shymkent,Public Transport,2026-03-14,In Progress,,
+APP-1586,Almaty,Roads,2026-01-13,Closed,2026-01-19,6.0
+APP-1972,Astana,Public Transport,2026-03-06,Closed,2026-03-16,10.0
+APP-1391,Shymkent,Roads,2026-01-25,Closed,2026-02-04,10.0
+APP-2264,Almaty,Public Transport,2026-01-20,Closed,2026-01-25,5.0
+APP-1413,Almaty,Roads,2026-02-24,Closed,2026-02-27,3.0
+APP-1897,Almaty,Housing,2026-01-06,Closed,2026-01-18,12.0
+APP-1149,Shymkent,Education,2026-01-04,Closed,2026-01-19,15.0
+APP-1115,Almaty,Education,2026-02-10,Closed,2026-02-15,5.0
+APP-2389,Almaty,Healthcare,2026-03-29,Closed,2026-04-03,5.0
+APP-1841,Astana,Roads,2026-03-04,Closed,2026-03-15,11.0
+APP-2143,Astana,Roads,2026-01-25,Closed,2026-02-07,13.0
+APP-1513,Aktobe,Healthcare,2026-01-07,In Progress,,
+APP-1303,Almaty,Housing,2026-01-17,Closed,2026-01-24,7.0
+APP-1977,Astana,Roads,2026-03-16,Rejected,,
+APP-1801,Almaty,Roads,2026-03-21,Closed,2026-04-03,13.0
+APP-1461,Aktobe,Roads,2026-02-17,Rejected,,
+APP-1678,Almaty,Public Transport,2026-02-10,Closed,2026-02-25,15.0
+APP-1821,Karaganda,Education,2026-03-02,Closed,2026-03-17,15.0
+APP-2496,Almaty,Roads,2026-02-06,Closed,2026-02-15,9.0
+APP-2072,Shymkent,Education,2026-02-16,Closed,2026-02-17,1.0
+APP-1102,Shymkent,Healthcare,2026-01-09,Closed,2026-01-22,13.0
+APP-1504,Shymkent,Healthcare,2026-02-04,Closed,2026-02-06,2.0
+APP-1668,Almaty,Public Transport,2026-01-24,Closed,2026-01-28,4.0
+APP-1666,Shymkent,Education,2026-03-13,In Progress,,
+APP-2435,Aktobe,Education,2026-01-03,Closed,2026-01-10,7.0
+APP-1595,Astana,Public Transport,2026-02-06,Closed,2026-02-17,11.0
+APP-1644,Almaty,Housing,2026-03-26,Closed,2026-04-08,13.0
+APP-1708,Astana,Healthcare,2026-03-04,Closed,2026-03-06,2.0
+APP-2030,Almaty,Public Transport,2026-03-19,In Progress,,
+APP-2162,Almaty,Public Transport,2026-02-02,Closed,2026-02-05,3.0
+APP-1093,Karaganda,Housing,2026-03-30,Closed,2026-04-08,9.0
+APP-1822,Astana,Public Transport,2026-01-22,Closed,2026-02-05,14.0
+APP-2150,Karaganda,Education,2026-02-03,Closed,2026-02-05,2.0
+APP-2485,Almaty,Education,2026-02-17,Closed,2026-02-19,2.0
+APP-2018,Karaganda,Roads,2026-03-13,Closed,2026-03-16,3.0
+APP-1916,Astana,Education,2026-02-24,Closed,2026-03-05,9.0
+APP-1098,Karaganda,Education,2026-02-14,In Progress,,
+APP-2145,Astana,Public Transport,2026-03-16,Closed,2026-03-31,15.0
+APP-2380,Almaty,Healthcare,2026-03-02,Closed,2026-03-03,1.0
+APP-1064,Karaganda,Public Transport,2026-02-05,Closed,2026-02-19,14.0
+APP-1459,Shymkent,Roads,2026-03-31,Closed,2026-04-03,3.0
+APP-1151,Karaganda,Housing,2026-01-15,Closed,2026-01-30,15.0
+APP-1947,Shymkent,Housing,2026-01-20,Closed,2026-02-04,15.0
+APP-2066,Karaganda,Healthcare,2026-02-25,Closed,2026-03-06,9.0
+APP-1155,Almaty,Education,2026-01-13,Closed,2026-01-16,3.0
+APP-2309,Astana,Housing,2026-01-25,Closed,2026-02-05,11.0
+APP-1523,Karaganda,Housing,2026-03-14,In Progress,,
+APP-2243,Aktobe,Healthcare,2026-03-26,Closed,2026-04-07,12.0
+APP-2328,Astana,Public Transport,2026-02-15,Closed,2026-02-24,9.0
+APP-1844,Karaganda,Healthcare,2026-03-22,In Progress,,
+APP-1772,Almaty,Roads,2026-02-20,Closed,2026-02-25,5.0
+APP-2213,Astana,Education,2026-03-15,Closed,2026-03-25,10.0
+APP-1641,Astana,Housing,2026-02-16,Closed,2026-03-02,14.0
+APP-1328,Almaty,Healthcare,2026-02-18,In Progress,,
+APP-1320,Almaty,Public Transport,2026-03-05,In Progress,,
+APP-1592,Astana,Public Transport,2026-03-07,Closed,2026-03-21,14.0
+APP-2334,Astana,Public Transport,2026-02-22,Closed,2026-03-02,8.0
+APP-1101,Shymkent,Housing,2026-03-12,Closed,2026-03-27,15.0
+APP-1313,Astana,Roads,2026-02-23,Closed,2026-02-24,1.0
+APP-2281,Astana,Housing,2026-01-30,Closed,2026-02-04,5.0
+APP-1610,Karaganda,Roads,2026-03-02,Closed,2026-03-16,14.0
+APP-2129,Karaganda,Education,2026-02-09,Closed,2026-02-23,14.0
+APP-1862,Karaganda,Roads,2026-01-14,Closed,2026-01-28,14.0
+APP-1057,Aktobe,Roads,2026-03-12,Closed,2026-03-22,10.0
+APP-1118,Almaty,Housing,2026-03-14,Closed,2026-03-21,7.0
+APP-1683,Astana,Healthcare,2026-03-14,Rejected,,
+APP-2005,Almaty,Housing,2026-03-26,Closed,2026-03-27,1.0
+APP-2353,Astana,Roads,2026-01-20,Closed,2026-01-21,1.0
+APP-1342,Almaty,Healthcare,2026-03-28,Closed,2026-04-11,14.0
+APP-1399,Astana,Education,2026-02-18,Closed,2026-02-28,10.0
+APP-1357,Astana,Roads,2026-01-27,Closed,2026-02-09,13.0
+APP-1033,Karaganda,Housing,2026-03-03,Closed,2026-03-04,1.0
+APP-1074,Karaganda,Housing,2026-03-31,Closed,2026-04-12,12.0
+APP-1097,Almaty,Public Transport,2026-01-15,In Progress,,
+APP-1522,Almaty,Housing,2026-01-10,Closed,2026-01-12,2.0
+APP-1738,Astana,Public Transport,2026-03-18,Closed,2026-04-02,15.0
+APP-1776,Shymkent,Healthcare,2026-03-29,Closed,2026-04-03,5.0
+APP-1015,Aktobe,Roads,2026-03-29,Rejected,,
+APP-1919,Astana,Education,2026-01-31,Closed,2026-02-14,14.0
+APP-2250,Karaganda,Healthcare,2026-01-07,Closed,2026-01-20,13.0
+APP-1534,Almaty,Healthcare,2026-02-24,Closed,2026-03-07,11.0
+APP-1065,Astana,Public Transport,2026-02-19,In Progress,,
+APP-2411,Almaty,Roads,2026-01-17,Closed,2026-01-27,10.0
+APP-2086,Astana,Healthcare,2026-03-15,Closed,2026-03-30,15.0
+APP-1176,Shymkent,Education,2026-01-01,Closed,2026-01-06,5.0
+APP-1583,Almaty,Roads,2026-01-17,Closed,2026-01-24,7.0
+APP-1139,Astana,Housing,2026-01-27,Closed,2026-02-02,6.0
+APP-2010,Astana,Housing,2026-01-26,Closed,2026-02-01,6.0
+APP-1596,Astana,Roads,2026-02-07,In Progress,,
+APP-1282,Astana,Public Transport,2026-03-25,Closed,2026-04-02,8.0
+APP-1903,Astana,Public Transport,2026-02-28,Closed,2026-03-08,8.0
+APP-1550,Aktobe,Education,2026-01-19,Closed,2026-01-28,9.0
+APP-1418,Karaganda,Housing,2026-01-30,Closed,2026-02-07,8.0
+APP-1849,Shymkent,Housing,2026-02-21,Closed,2026-03-06,13.0
+APP-1004,Aktobe,Education,2026-01-21,Closed,2026-01-22,1.0
+APP-1067,Astana,Public Transport,2026-01-02,Closed,2026-01-06,4.0
+APP-1650,Karaganda,Healthcare,2026-01-18,Rejected,,
+APP-1275,Shymkent,Roads,2026-02-23,Closed,2026-03-04,9.0
+APP-1304,Almaty,Public Transport,2026-02-02,Closed,2026-02-06,4.0
+APP-1905,Aktobe,Healthcare,2026-02-02,Closed,2026-02-03,1.0
+APP-1321,Almaty,Healthcare,2026-03-10,Closed,2026-03-15,5.0
+APP-2092,Aktobe,Housing,2026-03-31,Closed,2026-04-09,9.0
+APP-2202,Astana,Public Transport,2026-02-07,Rejected,,
+APP-1296,Shymkent,Healthcare,2026-01-14,Closed,2026-01-26,12.0
+APP-2093,Astana,Education,2026-02-15,Closed,2026-02-18,3.0
+APP-2376,Astana,Public Transport,2026-01-19,Closed,2026-02-03,15.0
+APP-2146,Astana,Roads,2026-02-07,Closed,2026-02-20,13.0
+APP-1514,Shymkent,Roads,2026-03-09,Closed,2026-03-11,2.0
+APP-1082,Astana,Roads,2026-03-13,Closed,2026-03-26,13.0
+APP-1673,Astana,Healthcare,2026-01-08,Closed,2026-01-09,1.0
+APP-1524,Shymkent,Housing,2026-01-24,Closed,2026-01-26,2.0
+APP-1334,Almaty,Housing,2026-02-06,Closed,2026-02-20,14.0
+APP-1763,Aktobe,Housing,2026-03-16,Closed,2026-03-30,14.0
+APP-2102,Shymkent,Public Transport,2026-03-17,Closed,2026-03-24,7.0
+APP-1417,Aktobe,Housing,2026-01-13,Closed,2026-01-18,5.0
+APP-1968,Karaganda,Healthcare,2026-01-13,Closed,2026-01-15,2.0
+APP-1314,Almaty,Education,2026-01-08,Closed,2026-01-15,7.0
+APP-1594,Almaty,Housing,2026-01-29,Closed,2026-02-07,9.0
+APP-1362,Aktobe,Roads,2026-01-09,Closed,2026-01-21,12.0
+APP-1144,Shymkent,Public Transport,2026-02-11,Closed,2026-02-22,11.0
+APP-2177,Almaty,Public Transport,2026-03-04,Closed,2026-03-10,6.0
+APP-1950,Almaty,Education,2026-01-01,Closed,2026-01-03,2.0
+APP-1778,Astana,Education,2026-01-30,Closed,2026-02-07,8.0
+APP-1393,Almaty,Roads,2026-03-04,Closed,2026-03-12,8.0
+APP-2453,Almaty,Education,2026-02-24,Closed,2026-03-03,7.0
+APP-2377,Shymkent,Healthcare,2026-02-13,Rejected,,
+APP-1894,Karaganda,Housing,2026-03-24,In Progress,,
+APP-2172,Aktobe,Housing,2026-03-22,Closed,2026-04-06,15.0
+APP-1107,Shymkent,Public Transport,2026-03-04,In Progress,,
+APP-2113,Almaty,Roads,2026-02-10,Closed,2026-02-21,11.0
+APP-2386,Shymkent,Roads,2026-01-12,Closed,2026-01-14,2.0
+APP-1750,Aktobe,Public Transport,2026-02-19,Closed,2026-03-02,11.0
+APP-1237,Almaty,Housing,2026-02-05,In Progress,,
+APP-2312,Shymkent,Roads,2026-03-27,Closed,2026-04-07,11.0
+APP-1428,Shymkent,Education,2026-01-23,Closed,2026-01-27,4.0
+APP-1340,Shymkent,Healthcare,2026-03-26,Closed,2026-03-30,4.0
+APP-1161,Almaty,Healthcare,2026-03-07,Closed,2026-03-13,6.0
+APP-2319,Shymkent,Public Transport,2026-01-12,Closed,2026-01-21,9.0
+APP-2200,Almaty,Education,2026-02-16,Closed,2026-02-25,9.0
+APP-2219,Astana,Roads,2026-02-19,In Progress,,
+APP-1245,Almaty,Public Transport,2026-02-02,Rejected,,
+APP-1147,Almaty,Education,2026-03-04,Closed,2026-03-05,1.0
+APP-1429,Shymkent,Public Transport,2026-01-09,Closed,2026-01-23,14.0
+APP-2073,Almaty,Healthcare,2026-03-09,In Progress,,
+APP-2271,Astana,Public Transport,2026-01-05,Closed,2026-01-08,3.0
+APP-1635,Astana,Education,2026-02-27,Closed,2026-03-05,6.0
+APP-2058,Aktobe,Public Transport,2026-01-05,In Progress,,
+APP-1877,Astana,Housing,2026-01-17,Closed,2026-01-26,9.0
+APP-1371,Shymkent,Roads,2026-01-13,Closed,2026-01-16,3.0
+APP-1612,Astana,Roads,2026-02-08,Closed,2026-02-21,13.0
+APP-1686,Almaty,Roads,2026-03-18,Closed,2026-03-27,9.0
+APP-1518,Almaty,Education,2026-02-05,Closed,2026-02-20,15.0
+APP-1482,Karaganda,Healthcare,2026-01-24,Closed,2026-02-03,10.0
+APP-1077,Karaganda,Education,2026-03-15,Closed,2026-03-20,5.0
+APP-1129,Karaganda,Education,2026-03-27,Closed,2026-03-28,1.0
+APP-2227,Karaganda,Roads,2026-02-28,Closed,2026-03-09,9.0
+APP-2450,Astana,Roads,2026-01-16,Closed,2026-01-26,10.0
+APP-1365,Aktobe,Housing,2026-02-08,Closed,2026-02-14,6.0
+APP-1884,Almaty,Healthcare,2026-03-25,Closed,2026-04-07,13.0
+APP-2255,Astana,Education,2026-01-19,Closed,2026-01-29,10.0
+APP-2357,Almaty,Public Transport,2026-03-14,In Progress,,
+APP-1318,Almaty,Healthcare,2026-01-30,Rejected,,
+APP-1691,Astana,Housing,2026-01-06,Closed,2026-01-21,15.0
+APP-1348,Astana,Public Transport,2026-02-27,Closed,2026-03-06,7.0
+APP-2015,Almaty,Public Transport,2026-03-30,Closed,2026-04-08,9.0
+APP-1704,Astana,Roads,2026-02-18,Closed,2026-02-24,6.0
+APP-1208,Almaty,Education,2026-03-28,Closed,2026-03-29,1.0
+APP-1152,Shymkent,Education,2026-02-12,Closed,2026-02-26,14.0
+APP-1525,Astana,Healthcare,2026-03-05,In Progress,,
+APP-1195,Almaty,Roads,2026-03-03,Closed,2026-03-06,3.0
+APP-1555,Astana,Public Transport,2026-03-19,In Progress,,
+APP-2308,Almaty,Housing,2026-02-06,In Progress,,
+APP-2475,Shymkent,Housing,2026-02-18,Closed,2026-02-28,10.0
+APP-2305,Astana,Public Transport,2026-02-07,Closed,2026-02-19,12.0
+APP-2447,Astana,Public Transport,2026-01-13,Closed,2026-01-26,13.0
+APP-1674,Astana,Roads,2026-02-27,Rejected,,
+APP-1001,Karaganda,Roads,2026-01-15,Rejected,,
+APP-1790,Astana,Public Transport,2026-03-29,Rejected,,
+APP-1991,Shymkent,Healthcare,2026-03-17,Closed,2026-03-19,2.0
+APP-2315,Almaty,Public Transport,2026-02-26,Closed,2026-03-10,12.0
+APP-1476,Aktobe,Housing,2026-01-16,Closed,2026-01-29,13.0
+APP-2094,Astana,Healthcare,2026-01-12,In Progress,,
+APP-1768,Shymkent,Public Transport,2026-02-19,Closed,2026-02-27,8.0
+APP-1251,Almaty,Public Transport,2026-02-26,Closed,2026-03-05,7.0
+APP-1223,Aktobe,Healthcare,2026-02-07,Closed,2026-02-19,12.0
+APP-2138,Astana,Healthcare,2026-02-26,Closed,2026-03-13,15.0
+APP-1969,Almaty,Education,2026-02-09,Closed,2026-02-16,7.0
+APP-2100,Shymkent,Public Transport,2026-03-01,Closed,2026-03-13,12.0
+APP-1826,Shymkent,Public Transport,2026-01-05,Closed,2026-01-14,9.0
+APP-1423,Almaty,Public Transport,2026-02-27,Closed,2026-03-11,12.0
+APP-1408,Almaty,Healthcare,2026-03-01,Closed,2026-03-05,4.0
+APP-1752,Almaty,Roads,2026-03-06,Closed,2026-03-08,2.0
+APP-1998,Almaty,Roads,2026-03-05,In Progress,,
+APP-1211,Shymkent,Roads,2026-01-02,Closed,2026-01-11,9.0
+APP-2120,Astana,Housing,2026-03-31,Closed,2026-04-09,9.0
+APP-1759,Almaty,Public Transport,2026-03-20,Closed,2026-04-03,14.0
+APP-1530,Astana,Public Transport,2026-01-23,Closed,2026-01-30,7.0
+APP-2224,Astana,Housing,2026-03-08,Closed,2026-03-11,3.0
+APP-1533,Astana,Education,2026-01-12,In Progress,,
+APP-2404,Shymkent,Education,2026-01-26,Closed,2026-01-28,2.0
+APP-1289,Almaty,Public Transport,2026-02-04,Closed,2026-02-16,12.0
+APP-1982,Shymkent,Roads,2026-02-18,Closed,2026-03-02,12.0
+APP-2266,Almaty,Education,2026-01-02,Closed,2026-01-09,7.0
+APP-2029,Astana,Public Transport,2026-03-07,In Progress,,
+APP-1861,Astana,Housing,2026-01-26,Closed,2026-02-05,10.0
+APP-2329,Aktobe,Roads,2026-03-05,Closed,2026-03-08,3.0
+APP-2383,Shymkent,Housing,2026-02-26,Closed,2026-02-27,1.0
+APP-2107,Karaganda,Roads,2026-01-31,Closed,2026-02-05,5.0
+APP-2042,Astana,Healthcare,2026-03-05,Closed,2026-03-07,2.0
+APP-1664,Shymkent,Housing,2026-03-15,In Progress,,
+APP-1721,Aktobe,Housing,2026-03-10,In Progress,,
+APP-1406,Almaty,Housing,2026-01-08,Closed,2026-01-16,8.0
+APP-2456,Aktobe,Housing,2026-01-30,Closed,2026-02-08,9.0
+APP-1761,Astana,Education,2026-01-14,Closed,2026-01-20,6.0
+APP-1508,Astana,Roads,2026-01-08,Closed,2026-01-23,15.0
+APP-1180,Aktobe,Housing,2026-01-03,Closed,2026-01-11,8.0
+APP-1938,Astana,Healthcare,2026-02-20,In Progress,,
+APP-1221,Astana,Education,2026-02-25,Closed,2026-02-28,3.0
+APP-1218,Almaty,Public Transport,2026-03-09,Closed,2026-03-12,3.0
+APP-1795,Almaty,Public Transport,2026-03-07,Closed,2026-03-16,9.0
+APP-1250,Almaty,Healthcare,2026-01-11,Closed,2026-01-22,11.0
+APP-1754,Astana,Healthcare,2026-01-05,Closed,2026-01-16,11.0
+APP-1271,Almaty,Education,2026-03-21,Rejected,,
+APP-1369,Karaganda,Housing,2026-01-25,In Progress,,
+APP-1764,Shymkent,Healthcare,2026-02-20,Closed,2026-03-01,9.0
+APP-2259,Almaty,Public Transport,2026-03-23,Closed,2026-04-03,11.0
+APP-1692,Shymkent,Housing,2026-03-23,Closed,2026-03-26,3.0
+APP-1327,Almaty,Housing,2026-03-05,Closed,2026-03-17,12.0
+APP-1132,Astana,Public Transport,2026-02-16,In Progress,,
+APP-2457,Karaganda,Roads,2026-01-13,Closed,2026-01-28,15.0
+APP-1127,Aktobe,Roads,2026-02-06,Closed,2026-02-13,7.0
+APP-1581,Almaty,Public Transport,2026-03-15,Closed,2026-03-27,12.0
+APP-1483,Shymkent,Housing,2026-01-12,Rejected,,
+APP-1353,Astana,Education,2026-02-16,Closed,2026-02-18,2.0
+APP-1198,Astana,Housing,2026-01-12,Closed,2026-01-24,12.0
+APP-1189,Aktobe,Roads,2026-01-24,Closed,2026-01-29,5.0
+APP-1830,Astana,Housing,2026-02-03,Closed,2026-02-18,15.0
+APP-1665,Almaty,Roads,2026-01-16,In Progress,,
+APP-1651,Shymkent,Education,2026-02-16,Closed,2026-02-26,10.0
+APP-1547,Karaganda,Healthcare,2026-02-18,Closed,2026-02-24,6.0
+APP-2203,Almaty,Education,2026-02-20,Closed,2026-02-21,1.0
+APP-1339,Almaty,Healthcare,2026-03-04,In Progress,,
+APP-2396,Astana,Education,2026-03-11,Closed,2026-03-18,7.0
+APP-1613,Almaty,Roads,2026-03-15,Closed,2026-03-26,11.0
+APP-1953,Astana,Housing,2026-03-05,Closed,2026-03-20,15.0
+APP-2278,Shymkent,Public Transport,2026-01-24,Closed,2026-02-07,14.0
+APP-1892,Shymkent,Housing,2026-01-08,Closed,2026-01-18,10.0
+APP-1171,Almaty,Education,2026-01-30,Closed,2026-02-07,8.0
+APP-1157,Astana,Education,2026-03-12,Closed,2026-03-17,5.0
+APP-1564,Almaty,Education,2026-02-22,Closed,2026-02-24,2.0
+APP-1235,Almaty,Education,2026-01-20,In Progress,,
+APP-2251,Astana,Education,2026-02-02,In Progress,,
+APP-1181,Astana,Housing,2026-03-11,Closed,2026-03-24,13.0
+APP-1935,Astana,Healthcare,2026-03-16,Closed,2026-03-19,3.0
+APP-2239,Astana,Housing,2026-01-16,Closed,2026-01-18,2.0
+APP-1150,Astana,Roads,2026-01-23,Closed,2026-01-25,2.0
+APP-1279,Almaty,Education,2026-03-13,Rejected,,
+APP-2049,Shymkent,Public Transport,2026-02-07,Closed,2026-02-11,4.0
+APP-1912,Aktobe,Housing,2026-03-16,Closed,2026-03-21,5.0
+APP-1720,Almaty,Roads,2026-03-22,Closed,2026-04-05,14.0
+APP-1913,Almaty,Roads,2026-03-03,Closed,2026-03-07,4.0
+APP-2354,Aktobe,Housing,2026-03-24,Closed,2026-03-27,3.0
+APP-2235,Almaty,Education,2026-03-29,Closed,2026-04-05,7.0
+APP-1078,Astana,Healthcare,2026-03-03,Closed,2026-03-05,2.0
+APP-2179,Almaty,Housing,2026-02-18,Closed,2026-03-03,13.0
+APP-1693,Aktobe,Roads,2026-03-10,Closed,2026-03-12,2.0
+APP-1959,Almaty,Public Transport,2026-02-02,Closed,2026-02-07,5.0
+APP-1167,Astana,Housing,2026-01-28,In Progress,,
+APP-1404,Almaty,Healthcare,2026-02-23,Closed,2026-02-26,3.0
+APP-1706,Almaty,Public Transport,2026-03-26,Closed,2026-04-10,15.0
+APP-1926,Astana,Public Transport,2026-03-16,Closed,2026-03-29,13.0
+APP-2021,Almaty,Education,2026-02-01,In Progress,,
+APP-1807,Astana,Healthcare,2026-02-25,Closed,2026-03-02,5.0
+APP-1035,Almaty,Education,2026-02-16,Closed,2026-03-01,13.0
+APP-1717,Astana,Healthcare,2026-01-21,Closed,2026-01-24,3.0
+APP-1050,Aktobe,Healthcare,2026-01-14,In Progress,,
+APP-1351,Almaty,Healthcare,2026-01-24,Closed,2026-01-26,2.0
+APP-1490,Karaganda,Housing,2026-02-12,Closed,2026-02-15,3.0
+APP-1677,Almaty,Healthcare,2026-01-28,Closed,2026-01-31,3.0
+APP-1095,Astana,Roads,2026-02-10,Closed,2026-02-18,8.0
+APP-2156,Almaty,Public Transport,2026-01-24,Closed,2026-01-31,7.0
+APP-1421,Astana,Public Transport,2026-03-04,Closed,2026-03-19,15.0
+APP-1359,Shymkent,Public Transport,2026-03-31,Closed,2026-04-03,3.0
+APP-1506,Almaty,Education,2026-03-22,Closed,2026-03-25,3.0
+APP-2228,Almaty,Public Transport,2026-03-13,Closed,2026-03-16,3.0
+APP-2141,Astana,Healthcare,2026-02-04,In Progress,,
+APP-2140,Astana,Education,2026-02-10,Closed,2026-02-18,8.0
+APP-2135,Almaty,Roads,2026-01-09,In Progress,,
+APP-1425,Almaty,Housing,2026-03-31,Closed,2026-04-08,8.0
+APP-1535,Almaty,Healthcare,2026-01-13,Closed,2026-01-19,6.0
+APP-2183,Almaty,Healthcare,2026-03-28,In Progress,,
+APP-1214,Shymkent,Healthcare,2026-03-31,Closed,2026-04-12,12.0
+APP-2131,Almaty,Housing,2026-01-21,Closed,2026-02-03,13.0
+APP-1242,Almaty,Roads,2026-01-20,Closed,2026-01-22,2.0
+APP-1192,Shymkent,Public Transport,2026-02-01,In Progress,,
+APP-2258,Aktobe,Public Transport,2026-03-01,Closed,2026-03-09,8.0
+APP-1961,Astana,Education,2026-02-19,In Progress,,
+APP-1839,Astana,Roads,2026-03-27,Closed,2026-03-30,3.0
+APP-1767,Aktobe,Housing,2026-02-07,Closed,2026-02-15,8.0
+APP-2078,Almaty,Public Transport,2026-02-05,Closed,2026-02-19,14.0
+APP-2059,Astana,Housing,2026-03-15,Closed,2026-03-25,10.0
+APP-1507,Shymkent,Education,2026-03-31,Closed,2026-04-08,8.0
+APP-1493,Astana,Public Transport,2026-03-06,Closed,2026-03-16,10.0
+APP-1726,Almaty,Housing,2026-02-22,Closed,2026-03-04,10.0
+APP-2022,Astana,Roads,2026-02-20,Closed,2026-02-25,5.0
+APP-1851,Almaty,Healthcare,2026-02-16,In Progress,,
+APP-2139,Astana,Education,2026-01-26,Closed,2026-02-01,6.0
+APP-1999,Astana,Roads,2026-03-13,In Progress,,
+APP-2304,Almaty,Education,2026-02-10,In Progress,,
+APP-1519,Almaty,Healthcare,2026-03-30,Closed,2026-04-03,4.0
+APP-1366,Almaty,Housing,2026-02-11,Closed,2026-02-13,2.0
+APP-1741,Astana,Roads,2026-03-06,Closed,2026-03-07,1.0
+APP-1943,Almaty,Healthcare,2026-01-26,Closed,2026-01-27,1.0
+APP-1403,Almaty,Roads,2026-01-15,In Progress,,
+APP-1457,Astana,Healthcare,2026-03-17,In Progress,,
+APP-2390,Almaty,Housing,2026-03-24,Closed,2026-04-07,14.0
+APP-2045,Aktobe,Healthcare,2026-02-02,Closed,2026-02-04,2.0
+APP-1928,Astana,Education,2026-03-20,Closed,2026-04-02,13.0
+APP-1025,Almaty,Public Transport,2026-01-22,Closed,2026-01-28,6.0
+APP-1783,Almaty,Housing,2026-01-04,Closed,2026-01-09,5.0
+APP-2254,Shymkent,Roads,2026-01-19,Closed,2026-01-29,10.0
+APP-2349,Almaty,Housing,2026-03-10,Closed,2026-03-17,7.0
+APP-1220,Almaty,Education,2026-03-16,Closed,2026-03-27,11.0
+APP-1946,Astana,Roads,2026-03-25,Closed,2026-03-31,6.0
+APP-1405,Almaty,Public Transport,2026-03-01,Closed,2026-03-06,5.0
+APP-1531,Almaty,Healthcare,2026-03-03,Closed,2026-03-04,1.0
+APP-2495,Astana,Public Transport,2026-02-28,In Progress,,
+APP-2440,Almaty,Healthcare,2026-02-24,Closed,2026-03-02,6.0
+APP-1368,Astana,Roads,2026-02-19,Closed,2026-02-21,2.0
+APP-1063,Almaty,Roads,2026-03-22,Closed,2026-03-30,8.0
+APP-1806,Karaganda,Housing,2026-01-04,Closed,2026-01-10,6.0
+APP-1427,Almaty,Housing,2026-03-03,In Progress,,
+APP-1134,Shymkent,Roads,2026-01-03,Closed,2026-01-06,3.0
+APP-1126,Almaty,Housing,2026-03-29,Rejected,,
+APP-1431,Karaganda,Roads,2026-01-01,Closed,2026-01-14,13.0
+APP-1398,Almaty,Healthcare,2026-03-27,Closed,2026-04-01,5.0
+APP-1201,Aktobe,Roads,2026-01-03,In Progress,,
+APP-1766,Astana,Housing,2026-03-05,Closed,2026-03-16,11.0
+APP-1529,Shymkent,Healthcare,2026-01-24,Closed,2026-01-31,7.0
+APP-1219,Almaty,Public Transport,2026-02-24,Closed,2026-03-02,6.0
+APP-2056,Almaty,Healthcare,2026-03-07,Closed,2026-03-20,13.0
+APP-1184,Almaty,Education,2026-01-09,Closed,2026-01-13,4.0
+APP-2445,Shymkent,Education,2026-03-27,Closed,2026-03-29,2.0
+APP-2204,Almaty,Roads,2026-03-04,Closed,2026-03-18,14.0
+APP-2478,Astana,Housing,2026-01-14,Closed,2026-01-25,11.0
+APP-2027,Almaty,Education,2026-01-25,In Progress,,
+APP-1377,Karaganda,Healthcare,2026-01-20,Closed,2026-01-23,3.0
+APP-2494,Astana,Public Transport,2026-01-12,Closed,2026-01-23,11.0
+APP-1360,Astana,Education,2026-01-17,Closed,2026-01-31,14.0
+APP-1624,Astana,Healthcare,2026-02-08,Closed,2026-02-15,7.0
+APP-1675,Almaty,Healthcare,2026-03-01,Closed,2026-03-16,15.0
+APP-1571,Almaty,Public Transport,2026-02-27,Closed,2026-03-05,6.0
+APP-2436,Astana,Roads,2026-02-06,Closed,2026-02-18,12.0
+APP-1617,Shymkent,Education,2026-03-08,Closed,2026-03-18,10.0
+APP-1193,Astana,Education,2026-03-29,In Progress,,
+APP-2446,Aktobe,Housing,2026-01-25,Closed,2026-02-03,9.0
+APP-1553,Astana,Housing,2026-03-12,Closed,2026-03-13,1.0
+APP-1577,Aktobe,Education,2026-03-16,Closed,2026-03-26,10.0
+APP-2218,Almaty,Public Transport,2026-02-01,Closed,2026-02-15,14.0
+APP-2277,Karaganda,Healthcare,2026-03-27,Closed,2026-04-05,9.0
+APP-1397,Karaganda,Housing,2026-02-27,Closed,2026-03-02,3.0
+APP-2297,Almaty,Education,2026-03-28,Closed,2026-04-07,10.0
+APP-1297,Astana,Housing,2026-01-21,Closed,2026-01-23,2.0
+APP-2406,Almaty,Housing,2026-02-16,Closed,2026-02-17,1.0
+APP-2401,Aktobe,Education,2026-01-12,Closed,2026-01-13,1.0
+APP-1300,Almaty,Roads,2026-01-08,In Progress,,
+APP-2063,Shymkent,Healthcare,2026-02-16,Closed,2026-02-28,12.0
+APP-1820,Karaganda,Public Transport,2026-02-11,Rejected,,
+APP-1558,Astana,Healthcare,2026-01-16,Closed,2026-01-21,5.0
+APP-1810,Shymkent,Housing,2026-03-08,Closed,2026-03-15,7.0
+APP-1255,Astana,Education,2026-01-31,Closed,2026-02-02,2.0
+APP-1834,Astana,Roads,2026-02-14,Closed,2026-02-22,8.0
+APP-2201,Aktobe,Healthcare,2026-03-07,Closed,2026-03-17,10.0
+APP-1110,Astana,Education,2026-01-08,Closed,2026-01-20,12.0
+APP-2187,Astana,Education,2026-03-03,Closed,2026-03-07,4.0
+APP-1042,Aktobe,Healthcare,2026-01-07,Closed,2026-01-18,11.0
+APP-1626,Almaty,Public Transport,2026-01-03,Closed,2026-01-05,2.0
+APP-2433,Shymkent,Housing,2026-03-01,Closed,2026-03-07,6.0
+APP-1249,Shymkent,Public Transport,2026-01-01,Closed,2026-01-03,2.0
+APP-2020,Almaty,Education,2026-01-14,Closed,2026-01-15,1.0
+APP-1317,Astana,Public Transport,2026-01-21,Closed,2026-02-02,12.0
+APP-2407,Almaty,Housing,2026-02-01,Closed,2026-02-07,6.0
+APP-1205,Astana,Housing,2026-01-02,Closed,2026-01-05,3.0
+APP-2336,Aktobe,Housing,2026-01-26,In Progress,,
+APP-1445,Aktobe,Roads,2026-03-17,In Progress,,
+APP-1775,Aktobe,Roads,2026-02-07,Closed,2026-02-13,6.0
+APP-2392,Almaty,Education,2026-01-21,Closed,2026-01-31,10.0
+APP-1659,Almaty,Education,2026-01-16,Closed,2026-01-23,7.0
+APP-1682,Karaganda,Public Transport,2026-01-17,In Progress,,
+APP-1743,Almaty,Healthcare,2026-02-03,Closed,2026-02-06,3.0
+APP-1000,Aktobe,Roads,2026-02-21,Closed,2026-03-01,8.0
+APP-1931,Almaty,Roads,2026-03-03,In Progress,,
+APP-2316,Almaty,Healthcare,2026-01-31,Closed,2026-02-14,14.0
+APP-2355,Shymkent,Education,2026-03-22,Closed,2026-03-27,5.0
+APP-2041,Almaty,Roads,2026-02-11,Closed,2026-02-16,5.0
+APP-1113,Aktobe,Education,2026-02-02,Closed,2026-02-04,2.0
+APP-1860,Aktobe,Public Transport,2026-01-02,In Progress,,
+APP-1723,Aktobe,Healthcare,2026-01-03,Closed,2026-01-16,13.0
+APP-2265,Karaganda,Housing,2026-01-11,Closed,2026-01-25,14.0
+APP-2455,Astana,Housing,2026-02-03,In Progress,,
+APP-1896,Almaty,Public Transport,2026-02-10,Closed,2026-02-12,2.0
+APP-2249,Astana,Education,2026-03-15,Rejected,,
+APP-2359,Astana,Housing,2026-03-07,In Progress,,
+APP-2144,Karaganda,Public Transport,2026-03-31,Rejected,,
+APP-1034,Almaty,Public Transport,2026-03-03,In Progress,,
+APP-1075,Aktobe,Housing,2026-02-13,Closed,2026-02-18,5.0
+APP-1842,Almaty,Education,2026-02-17,Closed,2026-03-01,12.0
+APP-1244,Karaganda,Roads,2026-02-21,Closed,2026-03-04,11.0
+APP-1053,Aktobe,Healthcare,2026-02-22,Closed,2026-02-28,6.0
+APP-2458,Karaganda,Healthcare,2026-01-13,Closed,2026-01-17,4.0
+APP-1070,Aktobe,Education,2026-01-04,Closed,2026-01-10,6.0
+APP-2394,Shymkent,Public Transport,2026-03-28,Closed,2026-04-10,13.0
+APP-1696,Astana,Public Transport,2026-03-07,Closed,2026-03-19,12.0
+APP-1400,Almaty,Housing,2026-02-21,Closed,2026-03-02,9.0
+APP-2400,Aktobe,Healthcare,2026-03-30,In Progress,,
+APP-1190,Aktobe,Roads,2026-03-20,Closed,2026-03-22,2.0
+APP-1569,Astana,Housing,2026-02-22,Closed,2026-02-24,2.0
+APP-2048,Astana,Healthcare,2026-01-29,Closed,2026-02-03,5.0
+APP-1815,Shymkent,Healthcare,2026-02-20,Closed,2026-02-26,6.0
+APP-1949,Almaty,Education,2026-02-16,Closed,2026-02-25,9.0
+APP-1634,Almaty,Healthcare,2026-01-06,Closed,2026-01-19,13.0
+APP-1379,Almaty,Public Transport,2026-01-08,Closed,2026-01-20,12.0
+APP-1669,Almaty,Roads,2026-01-28,Closed,2026-02-08,11.0
+APP-1546,Almaty,Roads,2026-01-19,Closed,2026-01-21,2.0
+APP-1891,Aktobe,Education,2026-02-03,Closed,2026-02-13,10.0
+APP-2184,Shymkent,Healthcare,2026-02-20,Closed,2026-03-06,14.0
+APP-1216,Astana,Healthcare,2026-03-11,Closed,2026-03-23,12.0
+APP-1224,Almaty,Housing,2026-01-24,Closed,2026-01-28,4.0
+APP-1649,Shymkent,Public Transport,2026-02-26,Closed,2026-03-04,6.0
+APP-1930,Almaty,Healthcare,2026-02-20,Closed,2026-02-21,1.0
+APP-1370,Karaganda,Housing,2026-01-24,Rejected,,
+APP-1731,Astana,Education,2026-01-17,Closed,2026-01-27,10.0
+APP-1965,Almaty,Healthcare,2026-01-10,Closed,2026-01-12,2.0
+APP-2174,Shymkent,Public Transport,2026-02-18,Closed,2026-02-28,10.0
+APP-2465,Shymkent,Public Transport,2026-03-03,Closed,2026-03-06,3.0
+APP-1154,Almaty,Housing,2026-02-05,Closed,2026-02-09,4.0
+APP-2268,Astana,Education,2026-03-28,Closed,2026-04-03,6.0
+APP-2419,Almaty,Housing,2026-01-07,Closed,2026-01-15,8.0
+APP-1907,Astana,Housing,2026-01-22,In Progress,,
+APP-2269,Astana,Education,2026-01-12,Closed,2026-01-18,6.0
+APP-1347,Almaty,Education,2026-02-23,Closed,2026-03-06,11.0
+APP-1158,Astana,Healthcare,2026-02-28,Closed,2026-03-07,7.0
+APP-2171,Astana,Roads,2026-03-12,Closed,2026-03-22,10.0
+APP-1740,Astana,Public Transport,2026-03-03,Closed,2026-03-14,11.0
+APP-2395,Almaty,Healthcare,2026-03-21,In Progress,,
+APP-1174,Astana,Education,2026-03-30,Closed,2026-04-05,6.0
+APP-1727,Almaty,Public Transport,2026-02-06,Closed,2026-02-12,6.0
+APP-1871,Shymkent,Public Transport,2026-03-05,Closed,2026-03-12,7.0
+APP-1728,Karaganda,Healthcare,2026-03-15,Closed,2026-03-30,15.0
+APP-1452,Karaganda,Healthcare,2026-03-19,Closed,2026-03-30,11.0
+APP-2185,Almaty,Roads,2026-02-25,Closed,2026-02-26,1.0
+APP-1719,Almaty,Healthcare,2026-01-06,Closed,2026-01-11,5.0
+APP-2053,Astana,Healthcare,2026-02-02,Rejected,,
+APP-1920,Shymkent,Education,2026-02-09,In Progress,,
+APP-2050,Astana,Healthcare,2026-02-26,Closed,2026-03-10,12.0
+APP-2408,Almaty,Education,2026-01-10,Closed,2026-01-24,14.0
+APP-2366,Almaty,Healthcare,2026-03-02,Closed,2026-03-10,8.0
+APP-1438,Astana,Education,2026-01-16,Closed,2026-01-24,8.0
+APP-1453,Almaty,Education,2026-03-10,Closed,2026-03-20,10.0
+APP-2370,Almaty,Roads,2026-02-08,Closed,2026-02-13,5.0
+APP-1283,Shymkent,Healthcare,2026-03-30,Closed,2026-04-14,15.0
+APP-1979,Astana,Roads,2026-01-24,Closed,2026-02-04,11.0
+APP-1703,Almaty,Healthcare,2026-01-18,Closed,2026-01-30,12.0
+APP-1307,Astana,Public Transport,2026-02-28,Closed,2026-03-06,6.0
+APP-1346,Aktobe,Public Transport,2026-01-25,Closed,2026-02-06,12.0
+APP-1002,Almaty,Education,2026-03-13,Closed,2026-03-14,1.0
+APP-1233,Astana,Roads,2026-03-21,Closed,2026-04-05,15.0
+APP-2091,Shymkent,Healthcare,2026-02-16,In Progress,,
+APP-2410,Almaty,Healthcare,2026-03-12,Closed,2026-03-18,6.0
+APP-1443,Almaty,Public Transport,2026-01-22,Closed,2026-01-24,2.0
+APP-1829,Almaty,Housing,2026-02-15,In Progress,,
+APP-1562,Shymkent,Public Transport,2026-02-21,Closed,2026-02-22,1.0
+APP-2083,Astana,Education,2026-03-10,Closed,2026-03-20,10.0
+APP-1628,Almaty,Healthcare,2026-03-03,Closed,2026-03-18,15.0
+APP-1856,Almaty,Public Transport,2026-01-28,Closed,2026-02-07,10.0
+APP-2405,Almaty,Roads,2026-01-26,In Progress,,
+APP-1396,Almaty,Public Transport,2026-02-27,Closed,2026-03-05,6.0
+APP-1301,Karaganda,Public Transport,2026-01-07,Closed,2026-01-13,6.0
+APP-2267,Almaty,Roads,2026-03-08,Closed,2026-03-23,15.0
+APP-1039,Karaganda,Healthcare,2026-03-05,Closed,2026-03-19,14.0
+APP-1430,Almaty,Housing,2026-01-12,Closed,2026-01-26,14.0
+APP-2498,Astana,Public Transport,2026-02-12,Rejected,,
+APP-1227,Almaty,Education,2026-03-27,Closed,2026-03-28,1.0
+APP-2061,Aktobe,Education,2026-01-13,Closed,2026-01-14,1.0
+APP-2208,Almaty,Public Transport,2026-01-29,Closed,2026-01-31,2.0
+APP-2397,Shymkent,Education,2026-03-13,In Progress,,
+APP-1923,Almaty,Public Transport,2026-01-06,Closed,2026-01-14,8.0
+APP-1601,Almaty,Healthcare,2026-01-17,Closed,2026-01-22,5.0
+APP-2326,Almaty,Roads,2026-03-26,Closed,2026-03-30,4.0
+APP-2165,Astana,Public Transport,2026-03-04,Closed,2026-03-18,14.0
+APP-2443,Shymkent,Housing,2026-01-15,Closed,2026-01-22,7.0
+APP-1811,Almaty,Public Transport,2026-01-27,Closed,2026-02-05,9.0
+APP-1302,Astana,Education,2026-03-08,Closed,2026-03-23,15.0
+APP-1440,Astana,Healthcare,2026-03-05,Closed,2026-03-08,3.0
+APP-1498,Astana,Housing,2026-02-13,In Progress,,
+APP-1554,Aktobe,Education,2026-01-28,In Progress,,
+APP-1818,Almaty,Public Transport,2026-01-05,In Progress,,
+APP-1882,Aktobe,Healthcare,2026-01-17,Closed,2026-01-23,6.0
+APP-1714,Shymkent,Roads,2026-03-18,Closed,2026-04-02,15.0
+APP-1566,Astana,Healthcare,2026-01-16,Closed,2026-01-31,15.0
+APP-1526,Almaty,Public Transport,2026-02-18,Rejected,,
+APP-2133,Almaty,Roads,2026-03-14,Closed,2026-03-27,13.0
+APP-1654,Shymkent,Public Transport,2026-01-15,Closed,2026-01-26,11.0
+APP-1017,Karaganda,Roads,2026-02-07,Rejected,,
+APP-2089,Shymkent,Roads,2026-03-13,Closed,2026-03-15,2.0
+APP-1715,Karaganda,Healthcare,2026-02-02,Closed,2026-02-08,6.0
+APP-2084,Astana,Public Transport,2026-01-20,Closed,2026-01-27,7.0
+APP-1173,Almaty,Public Transport,2026-03-16,Closed,2026-03-20,4.0
+APP-1681,Astana,Education,2026-03-04,In Progress,,
+APP-1169,Astana,Education,2026-02-13,Closed,2026-02-20,7.0
+APP-1866,Shymkent,Public Transport,2026-01-03,Closed,2026-01-12,9.0
+APP-1475,Almaty,Housing,2026-01-04,Closed,2026-01-09,5.0
+APP-1254,Almaty,Healthcare,2026-01-23,Closed,2026-02-05,13.0
+APP-2347,Almaty,Education,2026-01-24,Closed,2026-02-03,10.0
+APP-1248,Astana,Roads,2026-03-23,Rejected,,
+APP-1846,Shymkent,Healthcare,2026-02-05,Closed,2026-02-13,8.0
+APP-2301,Astana,Roads,2026-01-18,Closed,2026-01-26,8.0
+APP-1705,Karaganda,Healthcare,2026-01-11,Closed,2026-01-24,13.0
+APP-2356,Aktobe,Housing,2026-03-03,Closed,2026-03-06,3.0
+APP-2148,Almaty,Housing,2026-01-07,In Progress,,
+APP-1178,Almaty,Housing,2026-03-03,Closed,2026-03-15,12.0
+APP-1593,Karaganda,Education,2026-01-05,Closed,2026-01-18,13.0
+APP-2123,Aktobe,Housing,2026-03-28,Closed,2026-03-29,1.0
+APP-1602,Almaty,Housing,2026-03-12,Closed,2026-03-19,7.0
+APP-1023,Astana,Housing,2026-03-17,Closed,2026-03-30,13.0
+APP-2331,Aktobe,Roads,2026-02-23,Closed,2026-03-06,11.0
+APP-1539,Almaty,Education,2026-01-17,Rejected,,
+APP-1402,Almaty,Education,2026-03-11,Closed,2026-03-24,13.0
+APP-1468,Astana,Education,2026-02-03,Rejected,,
+APP-2101,Almaty,Healthcare,2026-02-12,Closed,2026-02-25,13.0
+APP-1136,Astana,Education,2026-01-05,Rejected,,
+APP-1899,Almaty,Healthcare,2026-01-26,Closed,2026-01-31,5.0
+APP-2483,Astana,Roads,2026-02-06,Closed,2026-02-09,3.0
+APP-1187,Shymkent,Housing,2026-02-20,In Progress,,
+APP-2337,Almaty,Healthcare,2026-01-29,Closed,2026-02-05,7.0
+APP-1434,Astana,Education,2026-02-03,In Progress,,
+APP-1182,Almaty,Public Transport,2026-03-13,Rejected,,
+APP-1047,Shymkent,Roads,2026-01-04,Closed,2026-01-14,10.0
+APP-1722,Aktobe,Healthcare,2026-01-05,Closed,2026-01-15,10.0
+APP-1551,Almaty,Education,2026-03-17,Closed,2026-04-01,15.0
+APP-1449,Shymkent,Healthcare,2026-03-27,Closed,2026-03-31,4.0
+APP-1021,Almaty,Housing,2026-01-21,Closed,2026-02-05,15.0
+APP-2262,Almaty,Public Transport,2026-02-16,Closed,2026-02-18,2.0
+APP-2039,Almaty,Public Transport,2026-02-20,Closed,2026-02-24,4.0
+APP-2335,Astana,Public Transport,2026-02-05,Closed,2026-02-08,3.0
+APP-2241,Astana,Education,2026-02-06,Closed,2026-02-12,6.0
+APP-2216,Astana,Healthcare,2026-03-28,In Progress,,
+APP-1962,Almaty,Housing,2026-01-10,Closed,2026-01-23,13.0
+APP-1863,Almaty,Public Transport,2026-02-28,Closed,2026-03-02,2.0
+APP-2205,Almaty,Education,2026-01-04,Closed,2026-01-07,3.0
+APP-1026,Aktobe,Roads,2026-03-30,Closed,2026-04-10,11.0
+APP-1278,Almaty,Roads,2026-03-16,Closed,2026-03-25,9.0
+APP-1164,Astana,Public Transport,2026-03-03,Rejected,,
+APP-2155,Almaty,Education,2026-02-23,Closed,2026-03-07,12.0
+APP-2105,Karaganda,Education,2026-02-06,Closed,2026-02-18,12.0
+APP-1604,Almaty,Healthcare,2026-02-14,Closed,2026-02-18,4.0
+APP-1052,Karaganda,Education,2026-03-31,Closed,2026-04-15,15.0
+APP-1762,Astana,Education,2026-03-07,In Progress,,
+APP-1222,Aktobe,Healthcare,2026-01-17,Closed,2026-01-30,13.0
+APP-1477,Shymkent,Healthcare,2026-01-24,Closed,2026-02-05,12.0
+APP-1748,Astana,Education,2026-02-23,Closed,2026-03-03,8.0
+APP-1747,Almaty,Roads,2026-02-03,Closed,2026-02-16,13.0
+APP-1486,Astana,Housing,2026-02-02,Closed,2026-02-10,8.0
+APP-2003,Shymkent,Roads,2026-01-30,Rejected,,
+APP-1103,Astana,Housing,2026-03-29,Closed,2026-04-04,6.0
+APP-1922,Almaty,Housing,2026-01-24,Closed,2026-02-04,11.0
+APP-2339,Almaty,Housing,2026-01-11,Closed,2026-01-19,8.0
+APP-1484,Karaganda,Roads,2026-02-19,Closed,2026-02-20,1.0
+APP-1751,Almaty,Education,2026-01-12,Closed,2026-01-17,5.0
+APP-1631,Astana,Housing,2026-02-25,Closed,2026-02-28,3.0
+APP-2116,Astana,Healthcare,2026-01-23,In Progress,,
+APP-1853,Almaty,Roads,2026-03-27,Closed,2026-04-06,10.0
+APP-1163,Shymkent,Roads,2026-02-14,In Progress,,
+APP-1089,Almaty,Healthcare,2026-03-23,In Progress,,
+APP-2247,Shymkent,Housing,2026-03-23,Closed,2026-03-25,2.0
+APP-1142,Karaganda,Education,2026-01-15,In Progress,,
+APP-1291,Almaty,Roads,2026-03-02,Closed,2026-03-06,4.0
+APP-1258,Karaganda,Healthcare,2026-01-16,Closed,2026-01-22,6.0
+APP-1967,Astana,Public Transport,2026-01-02,In Progress,,
+APP-2298,Almaty,Public Transport,2026-02-06,Closed,2026-02-08,2.0
+APP-2154,Aktobe,Healthcare,2026-02-20,In Progress,,
+APP-2468,Almaty,Education,2026-02-25,Closed,2026-02-27,2.0
+APP-1816,Almaty,Housing,2026-01-19,Closed,2026-01-31,12.0
+APP-1954,Astana,Education,2026-02-07,Closed,2026-02-17,10.0
+APP-1640,Astana,Education,2026-03-02,Closed,2026-03-06,4.0
+APP-1330,Aktobe,Healthcare,2026-02-13,Closed,2026-02-15,2.0
+APP-2272,Almaty,Healthcare,2026-02-06,In Progress,,
+APP-1655,Almaty,Education,2026-01-31,Closed,2026-02-11,11.0
+APP-2413,Almaty,Healthcare,2026-01-26,Rejected,,
+APP-2032,Karaganda,Healthcare,2026-02-20,Closed,2026-03-05,13.0
+APP-1014,Astana,Education,2026-01-02,In Progress,,
+APP-1162,Astana,Housing,2026-02-11,Closed,2026-02-22,11.0
+APP-1454,Astana,Public Transport,2026-02-16,Closed,2026-02-22,6.0
+APP-1578,Karaganda,Healthcare,2026-01-18,Closed,2026-02-02,15.0
+APP-2361,Karaganda,Education,2026-03-14,Closed,2026-03-21,7.0
+APP-1487,Almaty,Housing,2026-02-02,Closed,2026-02-08,6.0
+APP-1645,Astana,Roads,2026-03-16,In Progress,,
+APP-1260,Aktobe,Roads,2026-03-01,In Progress,,
+APP-1156,Astana,Roads,2026-02-01,Closed,2026-02-02,1.0
+APP-2350,Astana,Education,2026-02-25,Closed,2026-03-09,12.0
+APP-1414,Shymkent,Education,2026-02-09,Closed,2026-02-13,4.0
+APP-1521,Almaty,Healthcare,2026-02-05,Closed,2026-02-14,9.0
+APP-2444,Almaty,Healthcare,2026-01-04,Closed,2026-01-12,8.0
+APP-2151,Karaganda,Roads,2026-01-17,In Progress,,
+APP-1209,Aktobe,Roads,2026-01-01,Closed,2026-01-16,15.0
+APP-1770,Karaganda,Public Transport,2026-01-30,In Progress,,
+APP-1883,Astana,Housing,2026-01-13,In Progress,,
+APP-1621,Karaganda,Education,2026-01-20,Closed,2026-01-31,11.0
+APP-2060,Shymkent,Healthcare,2026-02-07,Closed,2026-02-12,5.0
+APP-2190,Aktobe,Healthcare,2026-01-29,Closed,2026-02-10,12.0
+APP-2431,Aktobe,Roads,2026-01-31,Closed,2026-02-06,6.0
+APP-2221,Astana,Education,2026-01-08,Closed,2026-01-18,10.0
+APP-1292,Astana,Public Transport,2026-02-10,Closed,2026-02-17,7.0
+APP-1265,Shymkent,Education,2026-03-10,Closed,2026-03-17,7.0
+APP-1983,Almaty,Education,2026-03-10,Closed,2026-03-17,7.0
+APP-2031,Shymkent,Public Transport,2026-02-22,Closed,2026-03-05,11.0
+APP-1817,Almaty,Housing,2026-01-21,In Progress,,
+APP-1261,Almaty,Healthcare,2026-01-02,Closed,2026-01-16,14.0
+APP-2332,Almaty,Public Transport,2026-03-06,Closed,2026-03-21,15.0
+APP-1541,Aktobe,Roads,2026-03-25,In Progress,,
+APP-2214,Karaganda,Roads,2026-03-24,In Progress,,
+APP-2163,Shymkent,Healthcare,2026-02-18,Closed,2026-02-21,3.0
+APP-2047,Shymkent,Education,2026-02-05,Closed,2026-02-07,2.0
+APP-1510,Karaganda,Healthcare,2026-03-15,Closed,2026-03-28,13.0
+APP-1992,Astana,Roads,2026-02-04,Closed,2026-02-13,9.0
+APP-2421,Almaty,Roads,2026-02-17,Closed,2026-03-01,12.0
+APP-1253,Astana,Public Transport,2026-02-19,Closed,2026-02-20,1.0
+APP-2199,Astana,Housing,2026-03-19,Closed,2026-04-01,13.0
+APP-1124,Astana,Public Transport,2026-01-23,Closed,2026-01-24,1.0
+APP-2452,Almaty,Education,2026-03-07,Rejected,,
+APP-2459,Karaganda,Roads,2026-01-18,In Progress,,
+APP-1259,Astana,Public Transport,2026-03-31,Closed,2026-04-15,15.0
+APP-1464,Karaganda,Healthcare,2026-02-02,Closed,2026-02-14,12.0
+APP-2492,Almaty,Housing,2026-03-29,Rejected,,
+APP-1647,Astana,Healthcare,2026-01-19,Closed,2026-01-30,11.0
+APP-2273,Shymkent,Education,2026-02-07,In Progress,,
+APP-2028,Almaty,Housing,2026-01-17,In Progress,,
+APP-1756,Almaty,Housing,2026-01-17,Closed,2026-01-27,10.0
+APP-1177,Almaty,Healthcare,2026-01-27,Closed,2026-02-10,14.0
+APP-1479,Astana,Housing,2026-01-02,Closed,2026-01-10,8.0
+APP-2477,Karaganda,Public Transport,2026-02-14,Closed,2026-02-22,8.0
+APP-1200,Shymkent,Education,2026-01-02,Closed,2026-01-03,1.0
+APP-1560,Astana,Housing,2026-01-12,In Progress,,
+APP-2460,Shymkent,Public Transport,2026-02-01,Closed,2026-02-03,2.0
+APP-1597,Astana,Roads,2026-03-24,Closed,2026-03-29,5.0
+APP-2387,Aktobe,Healthcare,2026-03-03,In Progress,,
+APP-2114,Astana,Healthcare,2026-03-27,Closed,2026-03-28,1.0
+APP-1872,Shymkent,Public Transport,2026-03-30,Closed,2026-04-09,10.0
+APP-1609,Aktobe,Healthcare,2026-01-19,Closed,2026-01-30,11.0
+APP-1932,Almaty,Public Transport,2026-02-26,Closed,2026-03-06,8.0
+APP-1828,Almaty,Roads,2026-03-31,In Progress,,
+APP-1137,Karaganda,Roads,2026-03-31,Closed,2026-04-08,8.0
+APP-1888,Almaty,Public Transport,2026-03-08,Closed,2026-03-13,5.0
+APP-2118,Karaganda,Education,2026-02-15,Rejected,,
+APP-2023,Almaty,Public Transport,2026-02-07,In Progress,,
+APP-1653,Almaty,Housing,2026-01-14,In Progress,,
+APP-2062,Aktobe,Healthcare,2026-01-31,Rejected,,
+APP-2149,Astana,Roads,2026-03-23,Closed,2026-03-25,2.0
+APP-2415,Karaganda,Education,2026-03-27,Closed,2026-04-07,11.0
+APP-1854,Astana,Roads,2026-01-14,In Progress,,
+APP-2166,Almaty,Housing,2026-01-22,Closed,2026-02-01,10.0
+APP-2109,Karaganda,Housing,2026-02-20,Closed,2026-03-02,10.0
+APP-1800,Karaganda,Roads,2026-02-24,Closed,2026-03-06,10.0
+APP-1611,Shymkent,Education,2026-02-23,Closed,2026-03-05,10.0
+APP-2002,Almaty,Healthcare,2026-03-01,Closed,2026-03-13,12.0
+APP-1028,Almaty,Housing,2026-02-28,Closed,2026-03-03,3.0
+APP-1488,Astana,Roads,2026-03-02,Closed,2026-03-15,13.0
+APP-2393,Astana,Roads,2026-03-22,In Progress,,
+APP-2325,Almaty,Roads,2026-01-26,Closed,2026-01-29,3.0
+APP-2279,Almaty,Roads,2026-03-22,Closed,2026-03-30,8.0
+APP-1561,Astana,Housing,2026-01-25,Closed,2026-01-29,4.0
+APP-2449,Astana,Roads,2026-02-02,Closed,2026-02-11,9.0
+APP-1376,Aktobe,Public Transport,2026-02-14,Closed,2026-02-17,3.0
+APP-1970,Astana,Housing,2026-01-02,Closed,2026-01-11,9.0
+APP-1168,Almaty,Roads,2026-01-28,In Progress,,
+APP-2275,Karaganda,Healthcare,2026-02-22,Closed,2026-02-25,3.0
+APP-1695,Astana,Education,2026-01-25,Closed,2026-02-08,14.0
+APP-1268,Almaty,Healthcare,2026-01-09,In Progress,,
+APP-1724,Shymkent,Roads,2026-02-22,Closed,2026-02-27,5.0
+APP-1575,Karaganda,Housing,2026-02-04,Closed,2026-02-07,3.0
+APP-2044,Almaty,Public Transport,2026-01-29,Closed,2026-02-07,9.0
+APP-1587,Almaty,Public Transport,2026-02-09,Closed,2026-02-12,3.0
+APP-1957,Astana,Roads,2026-03-18,Closed,2026-03-22,4.0
+APP-1975,Almaty,Healthcare,2026-01-17,Closed,2026-01-24,7.0
+APP-2095,Almaty,Healthcare,2026-03-31,Closed,2026-04-11,11.0
+APP-2260,Almaty,Housing,2026-01-02,Closed,2026-01-17,15.0
+APP-1159,Astana,Public Transport,2026-03-27,Closed,2026-03-29,2.0
+APP-1344,Astana,Housing,2026-03-08,Closed,2026-03-23,15.0
+APP-1367,Astana,Public Transport,2026-01-26,Closed,2026-01-31,5.0
+APP-1436,Shymkent,Healthcare,2026-03-30,Closed,2026-03-31,1.0
+APP-2115,Almaty,Roads,2026-01-11,Closed,2026-01-16,5.0
+APP-1424,Astana,Housing,2026-02-24,Closed,2026-03-05,9.0
+APP-2176,Aktobe,Education,2026-03-27,Closed,2026-04-05,9.0
+APP-1494,Almaty,Education,2026-02-02,Closed,2026-02-13,11.0
+APP-1230,Almaty,Roads,2026-03-14,Closed,2026-03-27,13.0
+APP-1145,Almaty,Healthcare,2026-03-18,Closed,2026-03-22,4.0
+APP-2283,Aktobe,Roads,2026-03-28,Closed,2026-04-08,11.0
+APP-1779,Astana,Healthcare,2026-02-20,Closed,2026-02-23,3.0
+APP-1094,Astana,Public Transport,2026-03-01,Rejected,,
+APP-1689,Aktobe,Housing,2026-02-15,Closed,2026-02-19,4.0
+APP-1337,Astana,Education,2026-02-22,Closed,2026-03-04,10.0
+APP-2282,Almaty,Healthcare,2026-02-28,Closed,2026-03-06,6.0
+APP-1694,Karaganda,Roads,2026-02-16,Closed,2026-02-18,2.0
+APP-1945,Aktobe,Healthcare,2026-01-19,In Progress,,
+APP-1505,Almaty,Roads,2026-03-28,In Progress,,
+APP-2473,Astana,Housing,2026-01-05,In Progress,,
+APP-1812,Shymkent,Roads,2026-02-01,Closed,2026-02-09,8.0
+APP-1135,Astana,Housing,2026-01-01,Closed,2026-01-04,3.0
+APP-1444,Shymkent,Public Transport,2026-03-08,Closed,2026-03-17,9.0
+APP-1437,Almaty,Education,2026-01-01,Closed,2026-01-05,4.0
+APP-1338,Astana,Public Transport,2026-03-01,Closed,2026-03-02,1.0
+APP-2497,Shymkent,Public Transport,2026-03-02,Closed,2026-03-16,14.0
+APP-1516,Almaty,Roads,2026-03-16,In Progress,,
+APP-1517,Almaty,Public Transport,2026-01-29,Closed,2026-02-07,9.0
+APP-2418,Almaty,Roads,2026-03-20,In Progress,,
+APP-2013,Shymkent,Public Transport,2026-03-30,Closed,2026-04-06,7.0
+APP-1032,Karaganda,Education,2026-01-15,Closed,2026-01-17,2.0
+APP-2057,Astana,Public Transport,2026-01-10,Closed,2026-01-16,6.0
+APP-1960,Aktobe,Roads,2026-01-06,Closed,2026-01-09,3.0
+APP-2242,Shymkent,Roads,2026-02-23,Closed,2026-03-04,9.0
+APP-1007,Almaty,Education,2026-03-16,Closed,2026-03-21,5.0
+APP-1272,Almaty,Healthcare,2026-01-03,Closed,2026-01-09,6.0
+APP-1850,Astana,Housing,2026-03-20,Closed,2026-03-25,5.0
+APP-1008,Karaganda,Education,2026-03-16,Closed,2026-03-30,14.0
+APP-1264,Shymkent,Housing,2026-01-12,In Progress,,
+APP-2381,Shymkent,Healthcare,2026-01-17,Closed,2026-01-28,11.0
+APP-1660,Aktobe,Housing,2026-03-28,Closed,2026-04-12,15.0
+APP-1495,Astana,Education,2026-02-09,Closed,2026-02-23,14.0
+APP-1902,Almaty,Housing,2026-02-25,Closed,2026-03-04,7.0
+APP-1435,Aktobe,Healthcare,2026-02-17,In Progress,,
+APP-1058,Almaty,Public Transport,2026-02-13,Rejected,,
+APP-1426,Almaty,Public Transport,2026-03-31,Closed,2026-04-13,13.0
+APP-1900,Aktobe,Education,2026-03-05,Closed,2026-03-09,4.0
+APP-1474,Astana,Housing,2026-03-10,Closed,2026-03-19,9.0
+APP-2461,Astana,Housing,2026-02-08,Closed,2026-02-17,9.0
+APP-1701,Almaty,Housing,2026-02-02,Closed,2026-02-04,2.0
+APP-1319,Almaty,Housing,2026-01-28,Closed,2026-02-07,10.0
+APP-2341,Almaty,Roads,2026-01-11,In Progress,,
+APP-1591,Astana,Roads,2026-01-27,Closed,2026-01-29,2.0
+APP-1009,Astana,Public Transport,2026-03-29,Closed,2026-04-03,5.0
+APP-1544,Astana,Public Transport,2026-01-13,Closed,2026-01-19,6.0
+APP-2024,Almaty,Education,2026-01-23,Closed,2026-01-26,3.0
+APP-1018,Almaty,Healthcare,2026-01-02,Closed,2026-01-12,10.0
+APP-1893,Astana,Education,2026-02-09,Closed,2026-02-11,2.0
+APP-1341,Almaty,Housing,2026-02-01,Closed,2026-02-08,7.0
+APP-1699,Shymkent,Education,2026-01-30,Closed,2026-02-04,5.0
+APP-1165,Aktobe,Public Transport,2026-02-26,Closed,2026-03-05,7.0
+APP-2285,Astana,Healthcare,2026-03-22,Closed,2026-04-01,10.0
+APP-1543,Shymkent,Housing,2026-03-27,Closed,2026-04-10,14.0
+APP-1343,Shymkent,Roads,2026-02-02,Closed,2026-02-11,9.0
+APP-2438,Almaty,Healthcare,2026-02-09,Closed,2026-02-23,14.0
+APP-2164,Astana,Healthcare,2026-01-29,Closed,2026-01-31,2.0
+APP-2391,Almaty,Healthcare,2026-01-08,In Progress,,
+APP-1941,Karaganda,Healthcare,2026-01-05,Closed,2026-01-13,8.0
+APP-1582,Almaty,Roads,2026-02-27,Closed,2026-03-01,2.0
+APP-1036,Astana,Healthcare,2026-03-03,Closed,2026-03-17,14.0
+APP-1109,Almaty,Housing,2026-03-22,In Progress,,
+APP-2197,Karaganda,Healthcare,2026-01-18,Closed,2026-01-23,5.0
+APP-2194,Aktobe,Education,2026-01-16,Closed,2026-01-21,5.0
+APP-1003,Aktobe,Education,2026-03-02,Closed,2026-03-14,12.0
+APP-1172,Astana,Healthcare,2026-03-03,Closed,2026-03-16,13.0
+APP-2432,Astana,Roads,2026-01-24,Closed,2026-01-30,6.0
+APP-1632,Almaty,Housing,2026-02-02,Closed,2026-02-11,9.0
+APP-2499,Shymkent,Public Transport,2026-03-11,Closed,2026-03-15,4.0
+APP-1420,Karaganda,Education,2026-01-17,Closed,2026-01-20,3.0
+APP-1984,Almaty,Roads,2026-03-03,Closed,2026-03-04,1.0
+APP-1263,Almaty,Education,2026-02-17,Closed,2026-02-19,2.0
+APP-1739,Astana,Roads,2026-01-04,In Progress,,
+APP-1439,Almaty,Education,2026-03-02,Closed,2026-03-03,1.0
+APP-1153,Almaty,Education,2026-01-29,In Progress,,
+APP-1951,Aktobe,Roads,2026-03-31,Closed,2026-04-11,11.0
+APP-1875,Almaty,Healthcare,2026-02-08,In Progress,,
+APP-1855,Almaty,Housing,2026-03-31,Closed,2026-04-07,7.0
+APP-1083,Almaty,Housing,2026-03-19,Closed,2026-03-22,3.0
+APP-1349,Almaty,Education,2026-03-08,Closed,2026-03-15,7.0
+APP-2412,Aktobe,Education,2026-01-23,Closed,2026-01-31,8.0
+APP-1485,Shymkent,Public Transport,2026-02-04,Closed,2026-02-13,9.0
+APP-1088,Almaty,Roads,2026-03-21,Closed,2026-03-24,3.0
+APP-1528,Almaty,Public Transport,2026-03-23,Closed,2026-04-04,12.0
+APP-1325,Almaty,Roads,2026-01-04,Closed,2026-01-10,6.0
+APP-1732,Almaty,Education,2026-03-26,In Progress,,
+APP-1823,Shymkent,Housing,2026-01-21,Closed,2026-01-26,5.0
+APP-1744,Karaganda,Education,2026-03-13,Closed,2026-03-17,4.0
+APP-2486,Astana,Healthcare,2026-03-06,Closed,2026-03-13,7.0
+APP-1019,Astana,Housing,2026-03-05,Closed,2026-03-14,9.0
+APP-1749,Almaty,Healthcare,2026-01-03,Closed,2026-01-10,7.0
+APP-1274,Shymkent,Housing,2026-01-24,Closed,2026-02-08,15.0
+APP-1257,Astana,Housing,2026-01-07,Closed,2026-01-15,8.0
+APP-2293,Almaty,Housing,2026-01-04,Closed,2026-01-15,11.0
+APP-2161,Shymkent,Healthcare,2026-03-29,In Progress,,
+APP-1809,Karaganda,Healthcare,2026-03-08,Closed,2026-03-15,7.0
+APP-2080,Shymkent,Roads,2026-01-26,Closed,2026-01-27,1.0
+APP-2330,Astana,Public Transport,2026-01-02,Closed,2026-01-07,5.0
+APP-2064,Almaty,Public Transport,2026-03-29,Closed,2026-04-13,15.0
+APP-2223,Karaganda,Housing,2026-02-26,Closed,2026-03-12,14.0
+APP-1084,Shymkent,Public Transport,2026-03-28,Closed,2026-03-29,1.0
+APP-1887,Shymkent,Public Transport,2026-01-10,In Progress,,
+APP-1447,Almaty,Public Transport,2026-01-16,Closed,2026-01-20,4.0
+APP-1415,Almaty,Healthcare,2026-02-21,Rejected,,
+APP-1948,Astana,Housing,2026-01-12,Closed,2026-01-27,15.0
+APP-2482,Shymkent,Healthcare,2026-03-03,Closed,2026-03-04,1.0
+APP-1814,Almaty,Education,2026-03-02,In Progress,,
+APP-2229,Astana,Roads,2026-02-23,Closed,2026-03-08,13.0
+APP-2338,Almaty,Education,2026-01-21,Closed,2026-02-01,11.0
+APP-1020,Almaty,Education,2026-03-01,Closed,2026-03-15,14.0
+APP-1638,Astana,Roads,2026-02-01,Closed,2026-02-04,3.0
+APP-1623,Karaganda,Education,2026-03-02,Closed,2026-03-07,5.0
+APP-1710,Almaty,Housing,2026-03-27,Closed,2026-03-31,4.0
+APP-2429,Astana,Roads,2026-01-17,Closed,2026-01-23,6.0
+APP-1456,Shymkent,Housing,2026-03-10,Closed,2026-03-21,11.0
+APP-1407,Almaty,Healthcare,2026-02-22,Closed,2026-02-28,6.0
+APP-2082,Karaganda,Housing,2026-01-27,Closed,2026-01-30,3.0
+APP-1480,Almaty,Housing,2026-02-01,In Progress,,
+APP-2189,Shymkent,Roads,2026-01-30,Closed,2026-02-07,8.0
+APP-1929,Almaty,Public Transport,2026-01-06,Rejected,,
+APP-1845,Almaty,Education,2026-01-26,In Progress,,
+APP-2425,Almaty,Housing,2026-03-23,Closed,2026-03-30,7.0
+APP-2043,Shymkent,Housing,2026-01-15,Closed,2026-01-17,2.0
+APP-1927,Karaganda,Public Transport,2026-01-04,Closed,2026-01-14,10.0
+APP-1690,Astana,Healthcare,2026-02-04,Closed,2026-02-07,3.0
+APP-1105,Aktobe,Public Transport,2026-01-08,Closed,2026-01-15,7.0
+APP-1648,Astana,Healthcare,2026-01-20,Closed,2026-01-21,1.0
+APP-1876,Almaty,Roads,2026-02-26,In Progress,,
+APP-2104,Astana,Roads,2026-01-05,Closed,2026-01-12,7.0
+APP-2012,Almaty,Education,2026-01-04,Closed,2026-01-13,9.0
+APP-2055,Aktobe,Healthcare,2026-03-27,Closed,2026-04-03,7.0
+APP-2157,Karaganda,Roads,2026-01-25,In Progress,,
+APP-1832,Almaty,Roads,2026-03-19,In Progress,,
+APP-2288,Astana,Healthcare,2026-02-09,Closed,2026-02-19,10.0
+APP-1041,Almaty,Housing,2026-02-20,Closed,2026-03-05,13.0
+APP-1499,Almaty,Housing,2026-01-29,Closed,2026-02-06,8.0
+APP-1798,Astana,Roads,2026-03-16,Closed,2026-03-30,14.0
+APP-1061,Karaganda,Healthcare,2026-02-04,Closed,2026-02-16,12.0
+APP-2307,Almaty,Education,2026-01-17,Closed,2026-01-22,5.0
+APP-1086,Astana,Housing,2026-02-09,Closed,2026-02-10,1.0
+APP-2384,Astana,Public Transport,2026-02-24,Closed,2026-03-07,11.0
+APP-2110,Astana,Healthcare,2026-01-29,Closed,2026-02-08,10.0
+APP-1918,Astana,Education,2026-01-03,Closed,2026-01-06,3.0
+APP-1502,Astana,Housing,2026-02-15,Closed,2026-02-25,10.0
+APP-2324,Karaganda,Public Transport,2026-01-17,Closed,2026-01-26,9.0
+APP-1527,Astana,Housing,2026-02-05,Closed,2026-02-14,9.0
+APP-1787,Astana,Healthcare,2026-03-15,Closed,2026-03-25,10.0
+APP-1199,Almaty,Public Transport,2026-02-08,Closed,2026-02-10,2.0
+APP-2487,Astana,Healthcare,2026-02-22,Closed,2026-03-03,9.0
+APP-1160,Almaty,Roads,2026-01-28,Closed,2026-02-02,5.0
+APP-1473,Almaty,Public Transport,2026-01-01,In Progress,,
+APP-1511,Almaty,Healthcare,2026-03-31,Closed,2026-04-07,7.0
+APP-1038,Astana,Housing,2026-02-24,Closed,2026-02-25,1.0
+APP-1771,Astana,Housing,2026-03-20,Rejected,,
+APP-2290,Karaganda,Public Transport,2026-01-25,Closed,2026-01-26,1.0
+APP-1633,Shymkent,Housing,2026-02-07,Rejected,,
+APP-2342,Astana,Education,2026-02-05,Closed,2026-02-16,11.0
+APP-1805,Shymkent,Public Transport,2026-01-04,Closed,2026-01-17,13.0
+APP-1196,Astana,Education,2026-02-27,In Progress,,
+APP-1120,Karaganda,Public Transport,2026-01-12,Closed,2026-01-18,6.0
+APP-1131,Karaganda,Roads,2026-03-06,In Progress,,
+APP-1462,Almaty,Housing,2026-03-26,Closed,2026-04-07,12.0
+APP-1455,Karaganda,Public Transport,2026-03-03,Closed,2026-03-18,15.0
+APP-1112,Karaganda,Healthcare,2026-02-04,Closed,2026-02-17,13.0
+APP-1096,Astana,Public Transport,2026-01-29,In Progress,,
+APP-1774,Astana,Public Transport,2026-02-21,In Progress,,
+APP-1308,Karaganda,Education,2026-03-27,Closed,2026-04-03,7.0
+APP-1311,Almaty,Healthcare,2026-02-07,Closed,2026-02-15,8.0
+APP-1607,Karaganda,Roads,2026-03-11,In Progress,,
+APP-1285,Almaty,Roads,2026-01-18,Closed,2026-01-21,3.0
+APP-1989,Astana,Housing,2026-01-09,Closed,2026-01-14,5.0
+APP-1700,Karaganda,Housing,2026-01-05,Closed,2026-01-14,9.0
+APP-2108,Shymkent,Education,2026-01-09,Closed,2026-01-10,1.0
+APP-1469,Almaty,Education,2026-02-21,Closed,2026-02-28,7.0
+APP-1702,Almaty,Public Transport,2026-03-06,Closed,2026-03-08,2.0
+APP-2253,Karaganda,Healthcare,2026-03-26,Closed,2026-03-31,5.0
+APP-2246,Astana,Public Transport,2026-02-17,Closed,2026-03-04,15.0
+APP-2417,Almaty,Roads,2026-01-14,Closed,2026-01-23,9.0
+APP-1119,Astana,Education,2026-03-13,Closed,2026-03-20,7.0
+APP-1580,Shymkent,Education,2026-01-09,Closed,2026-01-20,11.0
+APP-1247,Astana,Roads,2026-02-08,Rejected,,
+APP-2451,Astana,Roads,2026-02-11,Closed,2026-02-16,5.0
+APP-1908,Astana,Public Transport,2026-01-21,Closed,2026-01-22,1.0
+APP-1620,Aktobe,Education,2026-02-27,Closed,2026-03-04,5.0
+APP-2068,Almaty,Public Transport,2026-01-29,Closed,2026-02-12,14.0
+APP-2346,Almaty,Housing,2026-02-24,Rejected,,
+APP-2167,Shymkent,Healthcare,2026-01-26,Closed,2026-02-01,6.0
+APP-1936,Shymkent,Healthcare,2026-01-08,Closed,2026-01-16,8.0
+APP-2196,Almaty,Education,2026-01-19,Closed,2026-01-25,6.0
+APP-1698,Astana,Public Transport,2026-02-25,Closed,2026-03-07,10.0
+APP-1993,Astana,Education,2026-01-01,Closed,2026-01-16,15.0
+APP-1588,Shymkent,Roads,2026-02-11,Closed,2026-02-13,2.0
+APP-2016,Almaty,Healthcare,2026-01-18,In Progress,,
+APP-1552,Almaty,Housing,2026-01-09,Closed,2026-01-21,12.0
+APP-2125,Shymkent,Healthcare,2026-01-01,Closed,2026-01-05,4.0
+APP-1471,Almaty,Healthcare,2026-01-19,Closed,2026-02-01,13.0
+APP-1563,Karaganda,Housing,2026-03-26,Closed,2026-04-01,6.0
+APP-1716,Astana,Education,2026-01-01,Closed,2026-01-02,1.0
+APP-1956,Almaty,Roads,2026-01-11,Closed,2026-01-14,3.0
+APP-2117,Almaty,Public Transport,2026-01-01,Closed,2026-01-14,13.0
+APP-2130,Aktobe,Roads,2026-01-15,Closed,2026-01-24,9.0
+APP-1030,Shymkent,Housing,2026-03-01,In Progress,,
+APP-1079,Karaganda,Healthcare,2026-01-14,Closed,2026-01-29,15.0
+APP-1670,Karaganda,Housing,2026-01-08,Closed,2026-01-23,15.0
+APP-2291,Almaty,Education,2026-03-14,Closed,2026-03-18,4.0
+APP-2193,Almaty,Roads,2026-01-30,Closed,2026-02-11,12.0
+APP-1796,Astana,Public Transport,2026-03-18,Closed,2026-04-02,15.0
+APP-2382,Almaty,Healthcare,2026-03-15,Closed,2026-03-22,7.0
+APP-1996,Shymkent,Healthcare,2026-01-22,Closed,2026-01-26,4.0
+APP-1422,Astana,Public Transport,2026-01-19,Closed,2026-01-27,8.0
+APP-1869,Astana,Roads,2026-02-07,Closed,2026-02-18,11.0
+APP-1306,Astana,Education,2026-03-17,Closed,2026-03-30,13.0
+APP-1054,Astana,Public Transport,2026-01-02,Closed,2026-01-11,9.0
+APP-1395,Karaganda,Public Transport,2026-01-22,Closed,2026-01-26,4.0
+APP-2464,Astana,Education,2026-03-03,Closed,2026-03-05,2.0
+APP-1332,Astana,Housing,2026-02-15,Closed,2026-02-25,10.0
+APP-1864,Almaty,Public Transport,2026-02-25,Closed,2026-03-06,9.0
+APP-2488,Astana,Roads,2026-03-20,Closed,2026-03-24,4.0
+APP-1043,Shymkent,Roads,2026-01-21,In Progress,,
+APP-1141,Aktobe,Housing,2026-03-20,Closed,2026-03-30,10.0
+APP-1890,Shymkent,Roads,2026-03-27,Closed,2026-03-29,2.0
+APP-1952,Aktobe,Public Transport,2026-01-14,Closed,2026-01-15,1.0
+APP-1880,Shymkent,Housing,2026-02-13,Closed,2026-02-26,13.0
+APP-1333,Astana,Public Transport,2026-01-06,Closed,2026-01-21,15.0
+APP-1789,Almaty,Housing,2026-03-25,Closed,2026-04-09,15.0
+APP-1944,Almaty,Healthcare,2026-03-09,Closed,2026-03-12,3.0
+APP-1685,Karaganda,Healthcare,2026-03-25,Closed,2026-03-26,1.0
+APP-2318,Almaty,Healthcare,2026-02-09,Closed,2026-02-11,2.0
+APP-1501,Astana,Public Transport,2026-01-12,In Progress,,
+APP-2124,Astana,Roads,2026-02-26,Closed,2026-03-02,4.0
+APP-1755,Astana,Roads,2026-02-26,Closed,2026-03-04,6.0
+APP-2399,Astana,Housing,2026-03-23,Closed,2026-04-02,10.0
+APP-1450,Almaty,Healthcare,2026-02-26,Closed,2026-03-10,12.0
+APP-1827,Karaganda,Education,2026-01-12,Closed,2026-01-21,9.0
+APP-1758,Almaty,Education,2026-01-23,Closed,2026-02-02,10.0
+APP-1540,Astana,Education,2026-03-03,Closed,2026-03-10,7.0
+APP-1266,Almaty,Healthcare,2026-02-06,Closed,2026-02-10,4.0
+APP-2439,Almaty,Public Transport,2026-03-31,In Progress,,
+APP-1293,Almaty,Roads,2026-02-02,Closed,2026-02-06,4.0
+APP-1226,Almaty,Education,2026-03-11,Closed,2026-03-16,5.0
+APP-2098,Almaty,Public Transport,2026-03-23,Closed,2026-03-25,2.0
+APP-1040,Astana,Healthcare,2026-01-03,In Progress,,
+APP-1281,Karaganda,Healthcare,2026-02-07,In Progress,,
+APP-1212,Karaganda,Housing,2026-02-22,Closed,2026-03-09,15.0
+APP-2345,Almaty,Housing,2026-02-23,Closed,2026-02-25,2.0
+APP-1170,Almaty,Housing,2026-03-25,Closed,2026-03-29,4.0
+APP-1123,Astana,Healthcare,2026-02-17,Closed,2026-03-02,13.0
+APP-1276,Aktobe,Healthcare,2026-02-02,In Progress,,
+APP-1451,Aktobe,Housing,2026-01-29,Closed,2026-02-09,11.0
+APP-1662,Astana,Education,2026-03-16,Closed,2026-03-30,14.0
+APP-1232,Almaty,Housing,2026-03-11,Closed,2026-03-21,10.0
+APP-1852,Almaty,Healthcare,2026-02-25,In Progress,,
+APP-1470,Almaty,Housing,2026-01-10,Closed,2026-01-17,7.0
+APP-1386,Shymkent,Education,2026-02-01,In Progress,,
+APP-1175,Astana,Public Transport,2026-03-03,Closed,2026-03-12,9.0
+APP-1917,Astana,Housing,2026-01-09,Closed,2026-01-24,15.0
+APP-2006,Almaty,Housing,2026-02-06,Closed,2026-02-18,12.0
+APP-1730,Almaty,Housing,2026-03-24,Closed,2026-04-05,12.0
+APP-2313,Aktobe,Roads,2026-03-26,Closed,2026-04-10,15.0
+APP-1240,Almaty,Roads,2026-03-08,Closed,2026-03-20,12.0
+APP-1387,Astana,Roads,2026-03-28,Rejected,,
+APP-2479,Almaty,Healthcare,2026-01-30,Closed,2026-02-05,6.0
+APP-1889,Almaty,Healthcare,2026-01-18,Rejected,,
+APP-2481,Shymkent,Education,2026-01-18,Closed,2026-01-25,7.0
+APP-1188,Shymkent,Public Transport,2026-02-13,Closed,2026-02-27,14.0
+APP-1099,Almaty,Roads,2026-03-06,Closed,2026-03-09,3.0
+APP-2142,Almaty,Education,2026-03-04,Closed,2026-03-14,10.0
+APP-2128,Shymkent,Housing,2026-02-24,Closed,2026-03-05,9.0
+APP-1284,Almaty,Public Transport,2026-01-25,Closed,2026-01-28,3.0
+APP-1466,Almaty,Housing,2026-01-10,Closed,2026-01-15,5.0
+APP-2198,Astana,Public Transport,2026-01-01,Closed,2026-01-16,15.0
+APP-1066,Astana,Healthcare,2026-01-04,Closed,2026-01-11,7.0
+APP-2147,Shymkent,Public Transport,2026-01-02,Closed,2026-01-06,4.0
+APP-1512,Almaty,Education,2026-02-03,Closed,2026-02-16,13.0
+APP-2467,Almaty,Housing,2026-01-16,Closed,2026-01-26,10.0
+APP-1570,Almaty,Healthcare,2026-02-11,Closed,2026-02-17,6.0
+APP-1478,Almaty,Education,2026-03-21,Closed,2026-04-03,13.0
+APP-1185,Aktobe,Healthcare,2026-03-03,Closed,2026-03-06,3.0
+APP-1500,Astana,Education,2026-01-13,Closed,2026-01-23,10.0
+APP-2240,Shymkent,Housing,2026-03-09,Closed,2026-03-22,13.0
+APP-1290,Astana,Roads,2026-03-21,Closed,2026-04-04,14.0
+APP-1128,Astana,Public Transport,2026-02-13,Closed,2026-02-22,9.0
+APP-1785,Astana,Education,2026-02-25,Closed,2026-03-01,4.0
+APP-2052,Karaganda,Roads,2026-02-24,Rejected,,
+APP-1183,Shymkent,Healthcare,2026-01-27,Closed,2026-02-05,9.0
+APP-2001,Astana,Education,2026-01-14,Closed,2026-01-18,4.0
+APP-1585,Almaty,Housing,2026-02-15,Closed,2026-02-21,6.0
+APP-1619,Almaty,Housing,2026-01-13,Closed,2026-01-28,15.0
+APP-1784,Shymkent,Education,2026-01-10,Closed,2026-01-18,8.0
+APP-2340,Astana,Education,2026-02-09,Closed,2026-02-19,10.0
+APP-1027,Karaganda,Roads,2026-02-18,Closed,2026-03-05,15.0
+APP-1974,Karaganda,Housing,2026-03-14,Closed,2026-03-16,2.0
+APP-1231,Shymkent,Roads,2026-02-28,Closed,2026-03-01,1.0
+APP-2480,Astana,Education,2026-03-09,In Progress,,
+APP-2434,Shymkent,Roads,2026-02-14,Closed,2026-02-24,10.0
+APP-2159,Almaty,Education,2026-02-21,Closed,2026-03-07,14.0
+APP-1299,Almaty,Education,2026-01-20,Closed,2026-02-03,14.0
+APP-1051,Astana,Housing,2026-01-09,Closed,2026-01-19,10.0
+APP-2322,Karaganda,Education,2026-01-10,Rejected,,
+APP-2160,Astana,Education,2026-03-11,In Progress,,
+APP-1971,Shymkent,Education,2026-03-25,Rejected,,
+APP-1556,Shymkent,Healthcare,2026-02-21,Closed,2026-03-06,13.0
+APP-1310,Almaty,Roads,2026-01-30,Closed,2026-02-14,15.0
+APP-1934,Astana,Healthcare,2026-03-20,Closed,2026-03-30,10.0
+APP-1656,Almaty,Housing,2026-01-01,Closed,2026-01-02,1.0
+APP-1215,Aktobe,Public Transport,2026-02-01,Closed,2026-02-09,8.0
+APP-1825,Shymkent,Roads,2026-01-01,Closed,2026-01-10,9.0
+APP-1995,Almaty,Education,2026-03-05,Closed,2026-03-09,4.0
+APP-1234,Astana,Public Transport,2026-01-03,Closed,2026-01-14,11.0
+APP-1964,Shymkent,Public Transport,2026-01-23,Closed,2026-02-03,11.0
+APP-2065,Astana,Healthcare,2026-02-21,Closed,2026-02-24,3.0
+APP-2168,Almaty,Healthcare,2026-01-28,Closed,2026-02-10,13.0
+APP-1022,Almaty,Housing,2026-02-02,Closed,2026-02-06,4.0
+APP-1606,Karaganda,Roads,2026-02-05,In Progress,,
+APP-2182,Aktobe,Public Transport,2026-01-13,Closed,2026-01-20,7.0
+APP-1840,Astana,Housing,2026-02-25,Closed,2026-02-26,1.0
+APP-1133,Karaganda,Public Transport,2026-03-19,Closed,2026-03-21,2.0
+APP-2300,Shymkent,Roads,2026-03-11,Closed,2026-03-15,4.0
+APP-2085,Shymkent,Public Transport,2026-01-11,Closed,2026-01-21,10.0
+APP-1618,Astana,Healthcare,2026-02-14,In Progress,,
+APP-1046,Astana,Education,2026-01-18,Closed,2026-01-22,4.0
+APP-1687,Karaganda,Healthcare,2026-01-29,Closed,2026-02-09,11.0
+APP-1895,Astana,Housing,2026-02-11,Closed,2026-02-18,7.0
+APP-1390,Shymkent,Education,2026-02-20,Closed,2026-02-24,4.0
+APP-2454,Astana,Education,2026-02-11,Closed,2026-02-22,11.0
+APP-1765,Almaty,Roads,2026-02-07,In Progress,,
+APP-1241,Almaty,Healthcare,2026-01-19,Closed,2026-01-25,6.0
+APP-2294,Karaganda,Public Transport,2026-01-26,In Progress,,
+APP-1598,Aktobe,Education,2026-01-08,Rejected,,
+APP-1572,Almaty,Healthcare,2026-02-08,Closed,2026-02-13,5.0
+APP-1615,Astana,Healthcare,2026-01-19,Closed,2026-01-26,7.0
+APP-1565,Almaty,Public Transport,2026-01-23,Rejected,,
+APP-1978,Shymkent,Education,2026-01-15,In Progress,,
+APP-2364,Shymkent,Roads,2026-01-01,In Progress,,
+APP-1006,Astana,Roads,2026-03-28,Closed,2026-04-11,14.0
+APP-1652,Shymkent,Roads,2026-02-18,In Progress,,
+APP-2011,Astana,Public Transport,2026-03-03,Closed,2026-03-07,4.0
+APP-1194,Astana,Education,2026-02-21,Closed,2026-03-02,9.0
+APP-1336,Astana,Education,2026-02-15,Closed,2026-02-27,12.0
+APP-1637,Astana,Education,2026-02-14,Closed,2026-02-24,10.0
+APP-2469,Almaty,Public Transport,2026-01-10,Closed,2026-01-13,3.0
+APP-2152,Almaty,Healthcare,2026-02-12,Closed,2026-02-21,9.0
+APP-1378,Shymkent,Healthcare,2026-03-06,Closed,2026-03-19,13.0
+APP-1911,Almaty,Public Transport,2026-01-04,Rejected,,
+APP-2476,Astana,Roads,2026-01-03,Rejected,,
+APP-2471,Shymkent,Roads,2026-01-25,In Progress,,
+APP-2173,Astana,Housing,2026-03-25,Closed,2026-03-29,4.0
+APP-1679,Astana,Housing,2026-03-05,Closed,2026-03-17,12.0
+APP-1867,Astana,Public Transport,2026-01-23,Closed,2026-01-28,5.0
+APP-1448,Astana,Housing,2026-02-20,Closed,2026-02-22,2.0
+APP-2442,Almaty,Healthcare,2026-02-08,Closed,2026-02-15,7.0
+APP-1503,Almaty,Housing,2026-01-02,Closed,2026-01-06,4.0
+APP-1062,Shymkent,Housing,2026-03-19,Closed,2026-04-03,15.0
+APP-1374,Aktobe,Public Transport,2026-02-26,Closed,2026-03-04,6.0
+APP-1661,Astana,Housing,2026-02-26,Closed,2026-03-04,6.0
+APP-1684,Shymkent,Housing,2026-02-02,Closed,2026-02-09,7.0
+APP-1080,Astana,Education,2026-02-17,Closed,2026-02-23,6.0
+APP-2314,Almaty,Healthcare,2026-01-27,Closed,2026-02-09,13.0
+APP-2493,Astana,Healthcare,2026-03-09,Closed,2026-03-12,3.0
+APP-1921,Aktobe,Housing,2026-02-05,Closed,2026-02-12,7.0
+APP-1335,Astana,Healthcare,2026-01-24,In Progress,,
+APP-1643,Almaty,Roads,2026-03-21,Closed,2026-03-29,8.0
+APP-2121,Almaty,Healthcare,2026-02-05,Closed,2026-02-06,1.0
+APP-1114,Shymkent,Education,2026-01-05,In Progress,,
+APP-1879,Aktobe,Housing,2026-03-31,In Progress,,
+APP-1116,Almaty,Public Transport,2026-01-28,In Progress,,
+APP-2402,Almaty,Roads,2026-01-15,Closed,2026-01-16,1.0
+APP-1492,Almaty,Housing,2026-03-08,Closed,2026-03-13,5.0
+APP-1016,Karaganda,Roads,2026-01-30,Closed,2026-02-04,5.0
+APP-2170,Karaganda,Public Transport,2026-02-18,Closed,2026-02-20,2.0
+APP-1111,Astana,Roads,2026-02-04,In Progress,,
+APP-1819,Karaganda,Public Transport,2026-03-23,Closed,2026-03-29,6.0
+APP-2424,Astana,Healthcare,2026-03-28,Closed,2026-03-29,1.0
+APP-1646,Astana,Public Transport,2026-02-05,Closed,2026-02-09,4.0
+APP-2295,Almaty,Roads,2026-02-27,Closed,2026-03-06,7.0
+APP-1557,Shymkent,Public Transport,2026-03-24,Closed,2026-04-01,8.0
+APP-1236,Shymkent,Education,2026-02-28,Closed,2026-03-11,11.0
+APP-2000,Almaty,Roads,2026-01-11,Closed,2026-01-16,5.0
+APP-1031,Astana,Public Transport,2026-03-21,Closed,2026-03-25,4.0
+APP-1813,Karaganda,Housing,2026-02-19,Closed,2026-03-04,13.0
+APP-1011,Astana,Public Transport,2026-01-03,Closed,2026-01-12,9.0
+APP-2362,Almaty,Housing,2026-02-09,Closed,2026-02-16,7.0
+APP-1060,Almaty,Education,2026-02-16,Closed,2026-02-21,5.0
+APP-2466,Astana,Public Transport,2026-02-26,In Progress,,
+APP-1213,Astana,Roads,2026-02-13,In Progress,,
+APP-2287,Karaganda,Housing,2026-01-09,Closed,2026-01-10,1.0
+APP-2286,Almaty,Education,2026-01-14,Rejected,,
+APP-1712,Astana,Roads,2026-01-27,Closed,2026-02-01,5.0
+APP-2111,Astana,Healthcare,2026-03-19,In Progress,,
+APP-1087,Astana,Healthcare,2026-03-26,Closed,2026-04-08,13.0
+APP-2220,Almaty,Healthcare,2026-01-07,Closed,2026-01-16,9.0
+APP-1737,Shymkent,Healthcare,2026-02-14,Closed,2026-02-28,14.0
+APP-2103,Aktobe,Education,2026-03-09,Closed,2026-03-23,14.0
+APP-1373,Shymkent,Housing,2026-01-07,Closed,2026-01-13,6.0
+APP-1791,Almaty,Public Transport,2026-03-10,Closed,2026-03-12,2.0
+APP-1229,Almaty,Housing,2026-01-16,In Progress,,
+APP-1246,Astana,Public Transport,2026-02-09,Closed,2026-02-21,12.0
+APP-2207,Almaty,Education,2026-01-08,In Progress,,
+APP-1847,Astana,Public Transport,2026-01-01,Rejected,,
+APP-1416,Almaty,Roads,2026-01-16,Closed,2026-01-25,9.0
+APP-1045,Astana,Education,2026-02-08,Closed,2026-02-09,1.0
+APP-1976,Shymkent,Public Transport,2026-01-09,Closed,2026-01-16,7.0
+APP-1963,Almaty,Healthcare,2026-01-05,Closed,2026-01-15,10.0
+APP-1056,Almaty,Roads,2026-03-01,Closed,2026-03-08,7.0
+APP-1642,Shymkent,Healthcare,2026-01-21,Closed,2026-01-24,3.0
+APP-2153,Almaty,Education,2026-02-28,Closed,2026-03-01,1.0
+APP-1915,Astana,Roads,2026-01-24,Closed,2026-02-07,14.0
+APP-1843,Almaty,Healthcare,2026-03-02,Closed,2026-03-14,12.0
+APP-1419,Aktobe,Public Transport,2026-01-19,Closed,2026-01-25,6.0
+APP-2231,Astana,Public Transport,2026-02-20,In Progress,,
+APP-2489,Astana,Roads,2026-03-14,Closed,2026-03-26,12.0
+APP-1412,Astana,Public Transport,2026-02-16,In Progress,,
+APP-1315,Almaty,Roads,2026-01-27,Closed,2026-02-05,9.0
+APP-1048,Astana,Healthcare,2026-03-30,In Progress,,
+APP-1745,Almaty,Roads,2026-02-08,Closed,2026-02-23,15.0
+APP-1489,Astana,Healthcare,2026-02-20,Closed,2026-02-23,3.0
+APP-1671,Almaty,Roads,2026-02-05,Closed,2026-02-07,2.0
+APP-2310,Almaty,Public Transport,2026-03-17,Closed,2026-03-31,14.0
+APP-1792,Almaty,Roads,2026-02-03,In Progress,,
+APP-1901,Shymkent,Healthcare,2026-02-28,Rejected,,
+APP-1068,Almaty,Public Transport,2026-01-06,Closed,2026-01-10,4.0
+APP-2178,Astana,Education,2026-03-02,Rejected,,
+APP-1055,Karaganda,Housing,2026-03-25,Closed,2026-03-26,1.0
+APP-2363,Karaganda,Healthcare,2026-01-17,Closed,2026-01-27,10.0
+APP-2071,Astana,Housing,2026-01-29,In Progress,,
+APP-2379,Almaty,Housing,2026-02-18,Closed,2026-03-02,12.0
+APP-1382,Almaty,Roads,2026-03-17,Closed,2026-03-24,7.0
+APP-1356,Shymkent,Housing,2026-03-07,In Progress,,
+APP-2462,Almaty,Education,2026-02-15,Closed,2026-02-28,13.0
+APP-1460,Astana,Healthcare,2026-03-31,Closed,2026-04-03,3.0
+APP-1409,Almaty,Public Transport,2026-01-05,Closed,2026-01-13,8.0
+APP-1024,Almaty,Roads,2026-02-27,Closed,2026-03-07,8.0
+APP-1037,Almaty,Housing,2026-02-20,Closed,2026-02-28,8.0
+APP-1238,Shymkent,Healthcare,2026-01-19,Closed,2026-02-02,14.0
+APP-2427,Astana,Public Transport,2026-01-18,Closed,2026-01-31,13.0
+APP-2284,Karaganda,Healthcare,2026-03-22,Closed,2026-04-03,12.0
+APP-2237,Karaganda,Roads,2026-02-01,Closed,2026-02-08,7.0
+APP-1925,Astana,Roads,2026-03-25,Closed,2026-04-06,12.0
+APP-1848,Astana,Housing,2026-01-08,Closed,2026-01-15,7.0
+APP-1497,Almaty,Healthcare,2026-02-12,Closed,2026-02-17,5.0
+APP-1713,Shymkent,Roads,2026-02-18,Closed,2026-02-19,1.0
+APP-1559,Shymkent,Education,2026-03-10,Closed,2026-03-11,1.0
+APP-1937,Almaty,Education,2026-01-26,Closed,2026-02-07,12.0
+APP-1966,Almaty,Education,2026-02-13,In Progress,,
+APP-2087,Almaty,Healthcare,2026-02-07,Closed,2026-02-10,3.0
+APP-1225,Shymkent,Housing,2026-03-10,Closed,2026-03-11,1.0
+APP-1287,Almaty,Healthcare,2026-03-07,Closed,2026-03-12,5.0
+APP-1803,Almaty,Housing,2026-01-16,Closed,2026-01-20,4.0
+APP-2327,Astana,Housing,2026-03-03,Closed,2026-03-11,8.0
+APP-2256,Almaty,Healthcare,2026-02-05,Closed,2026-02-17,12.0
+APP-1639,Shymkent,Public Transport,2026-02-14,Closed,2026-02-21,7.0
+APP-2416,Almaty,Housing,2026-01-07,Rejected,,
+APP-1881,Shymkent,Housing,2026-01-25,Closed,2026-01-28,3.0
+APP-1858,Shymkent,Roads,2026-03-19,Closed,2026-03-28,9.0
+APP-1804,Karaganda,Public Transport,2026-01-08,Closed,2026-01-12,4.0
+APP-1981,Aktobe,Public Transport,2026-02-04,Closed,2026-02-07,3.0
+APP-2274,Almaty,Public Transport,2026-01-09,Closed,2026-01-22,13.0
+APP-1204,Karaganda,Housing,2026-02-28,Closed,2026-03-11,11.0
+APP-1197,Almaty,Roads,2026-02-21,In Progress,,
+APP-2490,Almaty,Housing,2026-01-15,In Progress,,
+APP-1384,Karaganda,Healthcare,2026-01-15,Closed,2026-01-28,13.0
+APP-1069,Astana,Housing,2026-02-23,Closed,2026-03-01,6.0
+APP-1458,Astana,Roads,2026-01-16,Closed,2026-01-23,7.0
+APP-1138,Aktobe,Healthcare,2026-01-14,Closed,2026-01-21,7.0
+APP-1140,Shymkent,Healthcare,2026-01-09,Closed,2026-01-24,15.0
+APP-1532,Astana,Healthcare,2026-02-06,Closed,2026-02-19,13.0
+APP-1729,Astana,Housing,2026-03-15,In Progress,,
+APP-2472,Astana,Education,2026-03-25,Closed,2026-03-28,3.0
+APP-2437,Karaganda,Healthcare,2026-02-12,Closed,2026-02-15,3.0
+APP-2097,Astana,Education,2026-03-03,In Progress,,
+APP-1394,Aktobe,Education,2026-03-03,Closed,2026-03-04,1.0
+APP-2367,Shymkent,Healthcare,2026-02-12,Closed,2026-02-17,5.0
+APP-2180,Astana,Housing,2026-03-12,Rejected,,
+APP-1515,Astana,Housing,2026-02-27,Closed,2026-03-05,6.0
+APP-2088,Astana,Roads,2026-01-06,Closed,2026-01-10,4.0
+APP-1206,Karaganda,Healthcare,2026-01-02,Closed,2026-01-09,7.0
+APP-1958,Shymkent,Public Transport,2026-01-03,Closed,2026-01-14,11.0
+APP-1166,Aktobe,Housing,2026-01-06,Closed,2026-01-07,1.0
+APP-1090,Astana,Education,2026-02-22,Closed,2026-03-04,10.0
+APP-1733,Karaganda,Housing,2026-03-19,Closed,2026-03-27,8.0
+APP-1997,Almaty,Housing,2026-03-01,Closed,2026-03-03,2.0
+APP-2188,Astana,Roads,2026-02-01,Closed,2026-02-06,5.0
+APP-1625,Astana,Roads,2026-01-01,Closed,2026-01-13,12.0
+APP-2007,Astana,Healthcare,2026-01-05,Closed,2026-01-13,8.0
+APP-1831,Almaty,Healthcare,2026-02-18,In Progress,,
+APP-2025,Karaganda,Education,2026-03-04,Closed,2026-03-10,6.0
+APP-1910,Astana,Healthcare,2026-03-11,Closed,2026-03-12,1.0
+APP-2385,Karaganda,Healthcare,2026-02-16,Closed,2026-02-18,2.0
+APP-1781,Shymkent,Education,2026-01-05,In Progress,,
+APP-1885,Aktobe,Public Transport,2026-01-25,Closed,2026-02-04,10.0
+APP-1372,Astana,Public Transport,2026-03-01,Closed,2026-03-04,3.0
+APP-1059,Shymkent,Housing,2026-01-08,Closed,2026-01-19,11.0
+APP-1542,Almaty,Healthcare,2026-03-30,Closed,2026-04-10,11.0
+APP-2210,Almaty,Education,2026-01-03,In Progress,,
+APP-2033,Almaty,Public Transport,2026-02-08,Closed,2026-02-12,4.0
+APP-1207,Almaty,Roads,2026-02-23,Closed,2026-02-24,1.0
+APP-1273,Almaty,Public Transport,2026-01-20,Closed,2026-01-31,11.0
+APP-2069,Astana,Healthcare,2026-01-08,In Progress,,
+APP-1072,Shymkent,Housing,2026-03-04,In Progress,,
+APP-2474,Karaganda,Public Transport,2026-03-06,Closed,2026-03-21,15.0
+APP-2352,Astana,Healthcare,2026-02-05,Closed,2026-02-14,9.0
+APP-1906,Shymkent,Roads,2026-02-22,Closed,2026-02-23,1.0
+APP-2036,Karaganda,Housing,2026-01-06,Closed,2026-01-10,4.0
+APP-1760,Almaty,Healthcare,2026-03-26,Closed,2026-04-06,11.0
+APP-2070,Astana,Roads,2026-01-05,In Progress,,
+APP-1986,Almaty,Public Transport,2026-02-19,Closed,2026-03-01,10.0
+APP-1326,Karaganda,Education,2026-02-04,Closed,2026-02-16,12.0
+APP-2333,Astana,Healthcare,2026-02-20,In Progress,,
+APP-1824,Shymkent,Public Transport,2026-03-11,Closed,2026-03-12,1.0
+APP-1324,Shymkent,Public Transport,2026-01-19,Closed,2026-01-29,10.0
+APP-1202,Astana,Healthcare,2026-02-25,Closed,2026-03-11,14.0
+APP-1794,Shymkent,Housing,2026-02-22,Closed,2026-03-07,13.0
+APP-1680,Astana,Education,2026-01-27,In Progress,,
+APP-2321,Astana,Housing,2026-03-12,Rejected,,
+APP-1005,Shymkent,Roads,2026-03-24,Closed,2026-03-31,7.0
+APP-1295,Almaty,Housing,2026-02-02,Closed,2026-02-14,12.0
+APP-2132,Almaty,Public Transport,2026-02-16,Rejected,,
+APP-2046,Aktobe,Education,2026-01-27,Closed,2026-02-02,6.0
+APP-2420,Karaganda,Education,2026-01-09,In Progress,,
+APP-1286,Almaty,Housing,2026-03-23,Closed,2026-03-25,2.0
+APP-1210,Astana,Housing,2026-01-19,Closed,2026-01-31,12.0
+APP-2222,Astana,Education,2026-03-06,Closed,2026-03-08,2.0
+APP-1886,Astana,Healthcare,2026-03-09,Closed,2026-03-15,6.0
+APP-1797,Astana,Education,2026-02-12,Rejected,,
+APP-2192,Astana,Roads,2026-02-14,Rejected,,
+APP-2371,Astana,Public Transport,2026-02-04,Closed,2026-02-09,5.0
+APP-1985,Karaganda,Public Transport,2026-03-01,In Progress,,
+APP-1567,Astana,Housing,2026-02-26,Closed,2026-03-03,5.0
+APP-2137,Astana,Healthcare,2026-02-21,Closed,2026-03-02,9.0
+APP-1549,Almaty,Roads,2026-03-02,In Progress,,
+APP-1270,Astana,Housing,2026-02-17,In Progress,,
+APP-1676,Astana,Education,2026-02-19,Closed,2026-02-22,3.0
+APP-1808,Astana,Public Transport,2026-01-25,Closed,2026-01-31,6.0
+APP-1898,Almaty,Housing,2026-02-21,Closed,2026-02-27,6.0
+APP-1870,Karaganda,Housing,2026-01-15,Closed,2026-01-16,1.0
+APP-2263,Almaty,Healthcare,2026-03-10,In Progress,,
+APP-2212,Karaganda,Roads,2026-01-10,Closed,2026-01-13,3.0
+APP-2484,Karaganda,Public Transport,2026-01-25,Closed,2026-01-28,3.0
+APP-2169,Astana,Education,2026-03-26,Closed,2026-04-05,10.0
+APP-1600,Aktobe,Housing,2026-03-27,Closed,2026-04-08,12.0
+APP-1538,Almaty,Education,2026-01-30,Closed,2026-02-12,13.0
+APP-2122,Astana,Housing,2026-02-23,In Progress,,
+APP-1711,Astana,Healthcare,2026-02-28,Closed,2026-03-06,6.0
+APP-1793,Shymkent,Education,2026-01-06,Closed,2026-01-15,9.0
+APP-1709,Aktobe,Roads,2026-03-30,Closed,2026-04-11,12.0
+APP-1432,Almaty,Public Transport,2026-02-27,Closed,2026-03-10,11.0
+APP-1780,Almaty,Healthcare,2026-03-22,Closed,2026-03-28,6.0
+APP-1769,Almaty,Public Transport,2026-03-23,Closed,2026-03-24,1.0
+APP-2134,Almaty,Education,2026-02-22,Closed,2026-02-24,2.0
+APP-1322,Almaty,Education,2026-03-02,Closed,2026-03-14,12.0
+APP-1990,Astana,Public Transport,2026-02-03,Closed,2026-02-18,15.0
+APP-1329,Astana,Roads,2026-01-17,Closed,2026-01-24,7.0
+APP-1707,Karaganda,Roads,2026-01-26,Closed,2026-02-05,10.0
+APP-1122,Karaganda,Healthcare,2026-02-02,Closed,2026-02-07,5.0
+APP-2004,Almaty,Roads,2026-02-04,Closed,2026-02-17,13.0
+APP-2067,Karaganda,Education,2026-01-15,Closed,2026-01-30,15.0
+APP-2296,Astana,Education,2026-01-29,Closed,2026-01-31,2.0
+APP-1924,Karaganda,Roads,2026-03-07,Closed,2026-03-13,6.0
+APP-1355,Aktobe,Roads,2026-01-23,In Progress,,
+APP-1491,Almaty,Public Transport,2026-01-12,Closed,2026-01-20,8.0
+APP-1081,Aktobe,Public Transport,2026-01-15,Closed,2026-01-24,9.0
+APP-1375,Almaty,Education,2026-02-05,Closed,2026-02-15,10.0
+APP-2261,Shymkent,Housing,2026-01-01,Closed,2026-01-10,9.0
+APP-1537,Almaty,Housing,2026-03-30,Rejected,,
+APP-2303,Astana,Education,2026-02-11,Closed,2026-02-25,14.0
+APP-2234,Astana,Healthcare,2026-02-04,Rejected,,
+APP-1121,Almaty,Education,2026-02-03,Closed,2026-02-06,3.0
+APP-1148,Shymkent,Roads,2026-02-21,Closed,2026-03-04,11.0
+APP-1786,Shymkent,Education,2026-01-17,Closed,2026-01-25,8.0
+APP-2074,Aktobe,Roads,2026-03-17,Closed,2026-03-22,5.0
+APP-2099,Astana,Healthcare,2026-03-30,Closed,2026-04-03,4.0
+APP-2414,Shymkent,Healthcare,2026-03-26,Closed,2026-03-28,2.0
+APP-1012,Astana,Healthcare,2026-01-22,Closed,2026-01-23,1.0
+APP-2276,Aktobe,Education,2026-02-13,Closed,2026-02-23,10.0
+APP-2209,Almaty,Public Transport,2026-02-24,Closed,2026-03-08,12.0
+APP-1859,Shymkent,Healthcare,2026-03-29,Closed,2026-04-09,11.0
+APP-2096,Karaganda,Roads,2026-01-13,Closed,2026-01-18,5.0
+APP-2014,Astana,Roads,2026-02-11,In Progress,,
+APP-1603,Almaty,Education,2026-03-30,Closed,2026-04-12,13.0
+APP-2470,Almaty,Roads,2026-01-30,Closed,2026-02-05,6.0
+APP-1933,Shymkent,Healthcare,2026-03-07,Closed,2026-03-22,15.0
+APP-1865,Astana,Housing,2026-01-07,In Progress,,
+APP-1467,Astana,Housing,2026-03-10,Closed,2026-03-14,4.0
+APP-1868,Almaty,Public Transport,2026-01-18,In Progress,,
+APP-2430,Astana,Healthcare,2026-01-14,Closed,2026-01-28,14.0
+APP-1243,Shymkent,Public Transport,2026-03-12,Closed,2026-03-26,14.0
+APP-1389,Astana,Public Transport,2026-03-27,In Progress,,
+APP-1782,Astana,Public Transport,2026-01-29,Closed,2026-02-13,15.0
+APP-1381,Astana,Education,2026-01-14,Closed,2026-01-15,1.0
+APP-1106,Astana,Public Transport,2026-03-29,Closed,2026-04-02,4.0
+APP-1658,Astana,Public Transport,2026-01-03,Closed,2026-01-08,5.0
+APP-1589,Almaty,Housing,2026-01-09,In Progress,,
+APP-1590,Shymkent,Roads,2026-02-19,Closed,2026-03-03,12.0
+APP-1191,Shymkent,Education,2026-02-28,Closed,2026-03-10,10.0
+APP-1481,Shymkent,Roads,2026-03-25,In Progress,,
+APP-1117,Almaty,Education,2026-01-07,Closed,2026-01-15,8.0
+APP-2463,Shymkent,Housing,2026-01-29,Rejected,,
+APP-1411,Almaty,Roads,2026-01-06,Closed,2026-01-09,3.0
+APP-2248,Karaganda,Education,2026-01-07,Closed,2026-01-09,2.0
+APP-2106,Astana,Housing,2026-03-13,Closed,2026-03-16,3.0
+APP-1799,Almaty,Housing,2026-01-23,Closed,2026-02-02,10.0
+APP-1352,Astana,Roads,2026-02-01,Closed,2026-02-07,6.0
+APP-1980,Almaty,Public Transport,2026-02-07,Closed,2026-02-14,7.0
+APP-2365,Astana,Healthcare,2026-03-30,Closed,2026-04-11,12.0
+APP-1509,Almaty,Housing,2026-01-26,Closed,2026-02-06,11.0
+APP-1773,Almaty,Education,2026-03-04,Closed,2026-03-11,7.0
+APP-2119,Almaty,Public Transport,2026-01-21,Closed,2026-01-31,10.0
+APP-2186,Shymkent,Roads,2026-03-24,Closed,2026-04-05,12.0
+APP-1179,Almaty,Healthcare,2026-03-18,Closed,2026-03-22,4.0
+APP-1350,Almaty,Public Transport,2026-02-15,Closed,2026-02-22,7.0
+APP-1788,Aktobe,Roads,2026-01-17,Closed,2026-01-31,14.0
+APP-1802,Astana,Housing,2026-03-16,Closed,2026-03-22,6.0
+APP-1130,Almaty,Public Transport,2026-02-04,Closed,2026-02-17,13.0
+APP-1697,Aktobe,Housing,2026-01-10,Closed,2026-01-23,13.0
+APP-2292,Astana,Housing,2026-01-22,Closed,2026-01-24,2.0
+APP-1904,Aktobe,Healthcare,2026-03-11,Closed,2026-03-15,4.0
+APP-1364,Shymkent,Healthcare,2026-02-17,Closed,2026-03-03,14.0
+APP-1312,Shymkent,Public Transport,2026-02-20,Closed,2026-03-01,9.0
+APP-1746,Astana,Education,2026-01-26,Closed,2026-02-10,15.0
+APP-2257,Almaty,Housing,2026-01-29,Closed,2026-02-08,10.0
+APP-1085,Astana,Education,2026-03-03,In Progress,,
+APP-2311,Astana,Housing,2026-03-28,Closed,2026-03-30,2.0
+APP-1358,Astana,Roads,2026-01-02,Closed,2026-01-12,10.0
+APP-1029,Almaty,Roads,2026-02-11,In Progress,,
+APP-1837,Astana,Healthcare,2026-01-26,Closed,2026-02-05,10.0
+APP-1753,Astana,Roads,2026-02-23,Closed,2026-03-01,6.0
+APP-1838,Astana,Education,2026-02-16,Closed,2026-03-01,13.0
+APP-1465,Almaty,Roads,2026-01-23,Closed,2026-01-31,8.0
+APP-1874,Astana,Housing,2026-03-15,Closed,2026-03-19,4.0
+APP-2009,Astana,Public Transport,2026-03-19,Closed,2026-04-02,14.0
+APP-1568,Astana,Roads,2026-02-08,Closed,2026-02-15,7.0
+APP-2008,Almaty,Healthcare,2026-03-24,Closed,2026-03-27,3.0
+APP-1277,Astana,Roads,2026-01-24,Closed,2026-02-04,11.0
+APP-1672,Astana,Roads,2026-03-31,Closed,2026-04-11,11.0
+APP-2245,Karaganda,Roads,2026-02-24,Closed,2026-03-08,12.0
+APP-1217,Karaganda,Healthcare,2026-02-01,Closed,2026-02-14,13.0
+APP-1441,Astana,Education,2026-03-04,Closed,2026-03-05,1.0
+APP-2191,Astana,Education,2026-02-18,Closed,2026-02-20,2.0
+APP-1316,Aktobe,Healthcare,2026-01-27,Closed,2026-02-11,15.0
+APP-1108,Shymkent,Roads,2026-01-11,Closed,2026-01-15,4.0
+APP-1446,Almaty,Roads,2026-01-26,Closed,2026-02-08,13.0
+APP-1380,Almaty,Healthcare,2026-01-16,Closed,2026-01-29,13.0
+APP-1873,Astana,Roads,2026-01-28,Closed,2026-02-07,10.0
+APP-1392,Aktobe,Education,2026-02-27,Closed,2026-03-06,7.0
+APP-1835,Astana,Roads,2026-01-27,Closed,2026-02-09,13.0
+APP-1331,Astana,Housing,2026-01-30,Closed,2026-02-01,2.0
+APP-2079,Almaty,Public Transport,2026-02-05,Closed,2026-02-16,11.0
+APP-1100,Astana,Housing,2026-03-30,Closed,2026-04-08,9.0
+APP-1298,Shymkent,Healthcare,2026-02-17,Closed,2026-02-28,11.0
+APP-2090,Astana,Public Transport,2026-01-23,Closed,2026-01-26,3.0
+APP-1630,Astana,Roads,2026-01-25,Closed,2026-02-09,15.0
+APP-2181,Astana,Roads,2026-01-01,Closed,2026-01-05,4.0
+APP-1667,Astana,Housing,2026-03-17,Closed,2026-03-28,11.0
+APP-1294,Almaty,Education,2026-03-09,Closed,2026-03-18,9.0
+APP-1252,Almaty,Education,2026-03-30,In Progress,,
+APP-2289,Almaty,Public Transport,2026-03-07,Closed,2026-03-19,12.0
+APP-1104,Shymkent,Education,2026-01-01,Closed,2026-01-14,13.0
+APP-2081,Karaganda,Healthcare,2026-02-12,In Progress,,
+APP-2158,Astana,Housing,2026-03-12,Closed,2026-03-23,11.0
+APP-2054,Almaty,Public Transport,2026-03-09,Closed,2026-03-24,15.0
+APP-2358,Almaty,Housing,2026-01-26,Closed,2026-01-27,1.0
+APP-2299,Almaty,Public Transport,2026-03-16,Closed,2026-03-21,5.0
+APP-2077,Almaty,Public Transport,2026-01-27,Closed,2026-02-10,14.0
+APP-2398,Almaty,Roads,2026-01-25,Closed,2026-01-26,1.0
+APP-1939,Karaganda,Education,2026-02-14,In Progress,,
+APP-1973,Astana,Roads,2026-03-04,Rejected,,
+APP-2076,Astana,Healthcare,2026-01-02,Closed,2026-01-06,4.0
+APP-1203,Almaty,Education,2026-03-22,Closed,2026-03-30,8.0
+APP-2127,Karaganda,Education,2026-02-23,In Progress,,
+APP-1742,Aktobe,Healthcare,2026-02-01,Closed,2026-02-06,5.0
+APP-2317,Astana,Roads,2026-01-06,Closed,2026-01-14,8.0
+APP-2233,Aktobe,Roads,2026-02-03,Closed,2026-02-06,3.0
+APP-1988,Shymkent,Healthcare,2026-03-16,Closed,2026-03-17,1.0
+APP-2252,Shymkent,Housing,2026-01-23,Closed,2026-02-06,14.0
+APP-2374,Astana,Roads,2026-02-20,Closed,2026-02-25,5.0
+APP-2040,Aktobe,Roads,2026-03-13,Closed,2026-03-17,4.0
+APP-1576,Astana,Public Transport,2026-03-28,Closed,2026-04-12,15.0
+APP-2051,Astana,Public Transport,2026-01-27,Closed,2026-02-03,7.0
+APP-2075,Shymkent,Healthcare,2026-02-14,Closed,2026-02-16,2.0
+APP-1584,Almaty,Housing,2026-01-07,Closed,2026-01-08,1.0
+APP-1955,Shymkent,Housing,2026-02-06,Rejected,,
+APP-1410,Astana,Education,2026-03-09,Closed,2026-03-20,11.0
+APP-2320,Almaty,Public Transport,2026-02-22,Closed,2026-03-09,15.0
+APP-1777,Almaty,Public Transport,2026-03-20,In Progress,,
+APP-2038,Shymkent,Public Transport,2026-01-07,Closed,2026-01-11,4.0
+APP-1725,Almaty,Housing,2026-01-23,Closed,2026-02-05,13.0
+APP-1186,Shymkent,Public Transport,2026-02-06,Closed,2026-02-14,8.0
+APP-1010,Karaganda,Education,2026-01-24,Closed,2026-01-25,1.0
+APP-1599,Almaty,Housing,2026-03-06,Closed,2026-03-13,7.0
+APP-1663,Almaty,Healthcare,2026-01-12,Closed,2026-01-14,2.0
+APP-2426,Astana,Education,2026-02-08,Closed,2026-02-22,14.0
+APP-2403,Astana,Public Transport,2026-02-28,Closed,2026-03-06,6.0
+APP-2217,Almaty,Education,2026-02-24,Closed,2026-03-09,13.0
+APP-2019,Almaty,Public Transport,2026-02-08,Rejected,,
+APP-1718,Almaty,Public Transport,2026-02-24,Closed,2026-03-06,10.0
+APP-2215,Karaganda,Roads,2026-02-03,Closed,2026-02-12,9.0
+APP-2238,Shymkent,Public Transport,2026-02-15,Closed,2026-02-24,9.0
+APP-2126,Aktobe,Housing,2026-03-04,Closed,2026-03-06,2.0
+APP-1345,Almaty,Roads,2026-01-18,Closed,2026-01-21,3.0
+APP-1736,Aktobe,Roads,2026-02-20,In Progress,,
+APP-1735,Astana,Housing,2026-01-01,Closed,2026-01-06,5.0
+APP-1574,Almaty,Education,2026-01-05,Closed,2026-01-19,14.0
+APP-1383,Almaty,Healthcare,2026-03-28,Rejected,,
+APP-1323,Shymkent,Public Transport,2026-02-17,Closed,2026-02-19,2.0
+APP-2344,Almaty,Education,2026-02-08,Closed,2026-02-11,3.0
+APP-1092,Astana,Education,2026-01-26,Closed,2026-01-29,3.0
+APP-1361,Astana,Education,2026-02-02,Closed,2026-02-04,2.0
+APP-1909,Astana,Healthcare,2026-03-11,Closed,2026-03-22,11.0
+APP-1579,Astana,Public Transport,2026-03-17,Closed,2026-03-27,10.0
+APP-1987,Shymkent,Healthcare,2026-03-19,In Progress,,
+APP-1496,Astana,Public Transport,2026-03-15,Closed,2026-03-22,7.0
+APP-1354,Astana,Housing,2026-03-27,Closed,2026-04-02,6.0
+APP-1073,Astana,Education,2026-01-18,Closed,2026-01-27,9.0
+APP-2306,Almaty,Housing,2026-02-03,Closed,2026-02-09,6.0
+APP-2441,Karaganda,Roads,2026-03-28,Closed,2026-03-31,3.0
+APP-1071,Astana,Healthcare,2026-02-23,In Progress,,
+APP-2422,Aktobe,Education,2026-03-13,In Progress,,
+APP-2206,Almaty,Housing,2026-01-01,Closed,2026-01-15,14.0
+APP-1622,Astana,Healthcare,2026-03-13,Closed,2026-03-19,6.0
+APP-2175,Astana,Education,2026-01-20,Closed,2026-01-29,9.0
+APP-2244,Shymkent,Public Transport,2026-01-14,Closed,2026-01-29,15.0
+APP-1269,Almaty,Roads,2026-01-19,Closed,2026-01-31,12.0
+APP-1463,Astana,Housing,2026-02-08,Closed,2026-02-18,10.0
+APP-2195,Astana,Public Transport,2026-02-09,In Progress,,
+APP-1942,Shymkent,Roads,2026-03-11,Closed,2026-03-22,11.0
+APP-1857,Astana,Roads,2026-03-28,Closed,2026-04-01,4.0
+APP-2230,Shymkent,Housing,2026-03-08,Closed,2026-03-15,7.0
+APP-2423,Astana,Education,2026-02-28,Closed,2026-03-10,10.0
+APP-2368,Astana,Housing,2026-02-11,Closed,2026-02-21,10.0
+APP-2369,Karaganda,Housing,2026-01-25,Closed,2026-02-06,12.0
+APP-1256,Almaty,Housing,2026-02-11,Closed,2026-02-23,12.0
+APP-1013,Almaty,Roads,2026-02-22,In Progress,,
+APP-2409,Almaty,Education,2026-01-16,Closed,2026-01-18,2.0
+APP-1288,Almaty,Healthcare,2026-02-23,Closed,2026-03-09,14.0
+APP-1143,Aktobe,Education,2026-03-31,Closed,2026-04-10,10.0
+APP-1433,Karaganda,Public Transport,2026-01-01,Closed,2026-01-07,6.0
+APP-1629,Almaty,Healthcare,2026-03-04,Closed,2026-03-14,10.0
+APP-1520,Almaty,Public Transport,2026-01-21,In Progress,,
+APP-2302,Karaganda,Housing,2026-03-26,Closed,2026-03-30,4.0
+APP-1146,Almaty,Housing,2026-02-20,Closed,2026-03-01,9.0
+APP-1616,Astana,Public Transport,2026-02-08,Rejected,,
+APP-1388,Astana,Public Transport,2026-03-04,Closed,2026-03-06,2.0
+APP-1836,Shymkent,Education,2026-03-14,In Progress,,
+APP-1442,Almaty,Housing,2026-03-10,Closed,2026-03-19,9.0
+APP-1280,Almaty,Education,2026-02-05,Closed,2026-02-19,14.0
+APP-2232,Almaty,Housing,2026-01-08,Closed,2026-01-20,12.0
+APP-2280,Almaty,Public Transport,2026-03-15,In Progress,,
+APP-2037,Astana,Healthcare,2026-03-08,Closed,2026-03-12,4.0
+APP-1688,Almaty,Education,2026-01-13,Closed,2026-01-19,6.0
+APP-2375,Karaganda,Public Transport,2026-01-12,Closed,2026-01-18,6.0
+APP-1627,Almaty,Roads,2026-03-18,Closed,2026-03-23,5.0
+APP-2378,Shymkent,Housing,2026-02-28,Closed,2026-03-13,13.0
+APP-2112,Almaty,Public Transport,2026-02-09,Closed,2026-02-19,10.0
+APP-1305,Almaty,Roads,2026-02-17,In Progress,,
+APP-1125,Astana,Housing,2026-03-03,Rejected,,
+APP-2343,Karaganda,Public Transport,2026-02-28,Closed,2026-03-14,14.0
+APP-2034,Shymkent,Education,2026-02-20,Closed,2026-02-25,5.0
+APP-2428,Almaty,Housing,2026-02-28,Closed,2026-03-10,10.0
+APP-1267,Almaty,Education,2026-02-01,Closed,2026-02-03,2.0
+APP-1536,Aktobe,Roads,2026-01-23,In Progress,,
+APP-1228,Shymkent,Housing,2026-01-11,In Progress,,
+APP-1605,Astana,Healthcare,2026-01-04,Closed,2026-01-12,8.0
+APP-1401,Almaty,Healthcare,2026-02-11,Closed,2026-02-22,11.0
+APP-1363,Astana,Healthcare,2026-02-12,Closed,2026-02-27,15.0
+APP-2388,Astana,Education,2026-03-21,In Progress,,
